@@ -1,12 +1,14 @@
 ---
 layout: default
-title: Home
+title: Accueil
+order: 0
 ---
 
 <header>
-<h1>This is Phantom, a free, fully responsive site<br />
-template designed by <a href="http://html5up.net">HTML5 UP</a>.</h1>
-<p>Etiam quis viverra lorem, in semper lorem. Sed nisl arcu euismod sit amet nisi euismod sed cursus arcu elementum ipsum arcu vivamus quis venenatis orci lorem ipsum et magna feugiat veroeros aliquam. Lorem ipsum dolor sit amet nullam dolore.</p>
+<h1>Atelier Éducatif Culturel et Sportif (Paris 17e)</h1>
+<div style="margin: 1em; width: 100%; max-width: 800px; margin-left: auto; margin-right: auto"><img src="{{ site.baseurl }}//images/activites.jpg" style="width: 100%" alt="Photos de différentes activités (2020)"/></div>
 </header>
+
+<p>Bienvenue sur le site web de l'AECS ! Notre association a pour mission de contribuer à la vie sociale, culturelle et sportive du quartier des Épinettes. Notre équipe apporte un soutien aux familles à travers la mise place d'ateliers d'accompagnement scolaire et l'organisation de diverses activités pour les jeunes du quartier. Que vos enfants aient besoin d'aide ou que vous souhaitiez devenir bénévole, nous serons heureux de vous accueillir dans nos locaux. À bientôt !</p>
 
 {% include tiles.html %}
