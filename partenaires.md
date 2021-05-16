@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Nos partenaires
+title: 🤝 Nos partenaires
 order: 100
 ---
 

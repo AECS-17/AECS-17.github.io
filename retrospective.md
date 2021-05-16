@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rétrospective
+title: 🏺 Rétrospective
 order: 20
 ---
 

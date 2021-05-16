@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Notre équipe
+title: 👫‍ Notre équipe
 order: 90
 ---
 
