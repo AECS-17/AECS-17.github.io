@@ -1,10 +1,11 @@
 ---
 layout: presentation
 title:  "Atelier 💻 bandes 🖼️ dessinées"
+subtitle: AECS, 5 décembre 2020
+summary: "Présentation de l'atelier BD du 5 décembre 2020."
 date:   2020-11-05 12:00:00
 categories: presentations
-subtitle: AECS, 5 décembre 2020
-summary: "Présentation de l'atelier BD du 5 décembre."
+tile-image: informatique-002.jpg
 ---
 
 <section class="slide" markdown="1">

@@ -5,6 +5,7 @@ subtitle: AECS, 6 février 2021
 summary: "Présentation de l'atelier informatique du 6 février 2021."
 date:   2021-01-30 12:00:00
 categories: presentations
+tile-image: informatique-003.jpg
 ---
 
 <section class="slide" markdown="1">
