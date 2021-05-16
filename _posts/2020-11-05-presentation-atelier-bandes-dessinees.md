@@ -16,7 +16,7 @@ summary: "Présentation de l'atelier BD du 5 décembre."
 * **C**réer 🌍 📖
 * **S**'amuser ! 😄🤪
 
-<aside class="notes">
+<aside class="notes" markdown="1">
 Les objectifs de cet atelier sont "A E C S":
 
   * Apprentissage de l'informatique, du dessin, de la langue...
@@ -36,7 +36,7 @@ Les objectifs de cet atelier sont "A E C S":
 3. Importer/créer des images 🐘
 4. Prochaines sessions 🔮
 
-<aside class="notes">
+<aside class="notes" markdown="1">
 * Je vais présenter le logiciel gratuit de la BNF pour réaliser des bandes dessinées. Facile pour commencer.
 * Webtoon: BD pour le web, série de case sans contraintes de mise en page papier.
 * On verra comment importer ses images ; éventuellement les dessiner et retoucher avec d'autres logiciels (gimp, inkscape).
@@ -51,7 +51,7 @@ Les objectifs de cet atelier sont "A E C S":
 
 <img src="{{ site.baseurl }}/images/presentations/sages-comme-des-images.png" alt="Cartoon AECS" style="width: 50%"/>
                          
-<aside class="notes">
+<aside class="notes" markdown="1">
 1. BDnF téléchargeable gratuitement sur le site et disponible sur plusieurs platformes.
 2. Créer un profile, accepter les conditions (pas d'utilisation malveillante, respect les droits de propriété des images, traçage cookie).
 3. Nouveau projet, Planche ou Webtoon, Webtoon, 800.
