@@ -9,4 +9,4 @@ tile-image: "informatique-001.jpg"
 
 <img style="width: 100%; max-width: 600px;" src="{{ site.baseurl }}/images/posts/atelier-bd-fevrier-2021.jpg" alt="Atelier BD"/>
 
-Deuxième atelier informatique de l'année scolaire. Les enfants ont continué à créer leurs bandes dessinées avec le logiciel BDnF et présenté leur petites créations. Ils ont aussi pu se familiariser avec des logiciels d'édition d'images plus avancés.
+[Deuxième atelier informatique de l'année scolaire]({% post_url 2021-01-30-presentation-atelier-informatique %}). Les enfants ont continué à créer leurs bandes dessinées avec le logiciel BDnF et présenté leur petites créations. Ils ont aussi pu se familiariser avec des logiciels d'édition d'images plus avancés.

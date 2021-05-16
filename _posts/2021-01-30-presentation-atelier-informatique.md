@@ -27,7 +27,7 @@ tile-image: informatique-003.jpg
 
 ## Bandes Dessinées (1/6)
 
-* Les enfants absents lors de la [première séance](https://aecs-17.github.io/presentations/2020-11-05-atelier-bandes-dessinees) pourront se familiariser avec le logiciel [BDnF](https://bdnf.bnf.fr/index.html) en créant un Webtoon.
+* Les enfants absents lors de la [première séance]({% post_url 2021-01-30-presentation-atelier-informatique %}) pourront se familiariser avec le logiciel [BDnF](https://bdnf.bnf.fr/index.html) en créant un Webtoon.
 * Les autres peuvent continuer leurs bandes dessinées ou en créer de nouvelles.
 * Ils peuvent aussi importer dans leur projet BDnF des images téléchargées d’internet.
 
