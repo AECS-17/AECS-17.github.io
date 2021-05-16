@@ -4,6 +4,7 @@ title:  "Atelier cuisine"
 date:   2021-01-30 12:00:00
 categories: jekyll update
 summary: "Petits sablés"
+tile-image: "cuisine-003.jpg"
 ---
 
 <img style="width: 100%; max-width: 600px;" src="{{ site.baseurl }}/images/posts/atelier-sables-fevrier-2021.png" alt="Atelier petits sablés"/>

@@ -4,6 +4,7 @@ title:  "Atelier informatique"
 date:   2021-02-06 12:00:00
 categories: jekyll update
 summary: "Création de bandes dessinées"
+tile-image: "informatique-001.jpg"
 ---
 
 <img style="width: 100%; max-width: 600px;" src="{{ site.baseurl }}/images/posts/atelier-bd-fevrier-2021.jpg" alt="Atelier BD"/>

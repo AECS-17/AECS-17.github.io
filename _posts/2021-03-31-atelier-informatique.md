@@ -4,6 +4,7 @@ title:  "Atelier Informatique"
 date:   2021-03-31 12:00:00
 categories: jekyll update
 summary: "Initiation à la ligne de commande"
+tile-image: "informatique-002.jpg"
 ---
 
 <img style="width: 100%; max-width: 600px;" src="{{ site.baseurl }}/images/posts/atelier-bash-001.jpg" alt="Photo atelier"/>

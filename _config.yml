@@ -11,7 +11,7 @@ email: contact@aecs.asso.fr
 description: Site web de l'AECS
 baseurl: "/phantom-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-front-page-posts: 9
+front-page-posts: 12
 
 # Logo settings
 logo-image-url: images/logo.svg
