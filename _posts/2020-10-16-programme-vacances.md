@@ -2,7 +2,7 @@
 layout: post
 title:  "Programme des vacances"
 date:   2020-10-16 13:00:00
-categories: jekyll update
+categories: articless
 ---
 
 Pendant les vacances scolaires, notre équipe continue d'organiser des activités pour les enfants du quartier. Le programme est disponible :

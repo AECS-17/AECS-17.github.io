@@ -2,7 +2,7 @@
 layout: post
 title:  "Budget participatif passage St-Ange"
 date:   2021-04-05 12:00:00
-categories: jekyll update
+categories: articless
 summary: "Votez pour notre proposition de budget pour le porche St-Ange !"
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Atelier Langue"
 date:   2021-02-19 12:00:00
-categories: jekyll update
+categories: articless
 summary: "Initiation à la langue Arabe"
 tile-image: "langue-001.jpg"
 ---

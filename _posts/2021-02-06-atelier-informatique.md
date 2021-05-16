@@ -2,7 +2,7 @@
 layout: post
 title:  "Atelier informatique"
 date:   2021-02-06 12:00:00
-categories: jekyll update
+categories: articless
 summary: "Création de bandes dessinées"
 tile-image: "informatique-001.jpg"
 ---

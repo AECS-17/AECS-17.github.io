@@ -2,7 +2,7 @@
 layout: post
 title:  "Agenda des activités de fin d'année"
 date:   2020-11-14 12:00:00
-categories: jekyll update
+categories: articless
 ---
 
 Pendant le confinement, l'AECS continue de proposer des activités pour les enfants ! Voici le programme pour novembre et décembre :

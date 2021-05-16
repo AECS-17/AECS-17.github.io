@@ -2,7 +2,7 @@
 layout: post
 title:  "Atelier Cuisine"
 date:   2021-01-09 12:00:00
-categories: jekyll update
+categories: articless
 summary: "Galette des rois et reines"
 tile-image: "cuisine-002.jpg"
 ---

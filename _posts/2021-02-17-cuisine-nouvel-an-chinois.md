@@ -2,7 +2,7 @@
 layout: post
 title:  "Atelier Cuisine"
 date:   2021-02-17 12:00:00
-categories: jekyll update
+categories: articless
 summary: "Nouvel an chinois"
 tile-image: "cuisine-003.jpg"
 ---

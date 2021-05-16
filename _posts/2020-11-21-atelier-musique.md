@@ -2,7 +2,7 @@
 layout: post
 title:  "Atelier musique"
 date:   2020-11-21 12:00:00
-categories: jekyll update
+categories: articless
 tile-image: "musique-001.jpg"
 ---
 

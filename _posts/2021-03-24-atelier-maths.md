@@ -2,7 +2,7 @@
 layout: post
 title:  "Atelier Maths"
 date:   2021-03-24 12:00:00
-categories: jekyll update
+categories: articless
 summary: "Dessins de Rosaces"
 tile-image: "math-001.jpg"
 ---

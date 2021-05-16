@@ -2,7 +2,7 @@
 layout: post
 title:  "Atelier cuisine"
 date:   2021-03-03 12:00:00
-categories: jekyll update
+categories: articless
 summary: "Bagels au saumon"
 tile-image: "cuisine-001.jpg"
 ---

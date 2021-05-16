@@ -2,7 +2,7 @@
 layout: post
 title:  "Garde-manger solidaire"
 date:   2021-05-06 12:00:00
-categories: jekyll update
+categories: articless
 summary: "Nous cherchons des voisins pour créer et animer un garde-manger solidaire"
 ---
 
