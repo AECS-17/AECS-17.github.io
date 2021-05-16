@@ -4,7 +4,7 @@ title:  "Atelier cuisine"
 date:   2021-03-03 12:00:00
 categories: articles
 summary: "Bagels au saumon"
-tile-image: "cuisine-001.jpg"
+tile-image: "cuisine-002.jpg"
 ---
 
 <img style="width: 100%; max-width: 600px;" src="{{ site.baseurl }}/images/posts/bagels.jpg" alt="Photo bagels"/>
