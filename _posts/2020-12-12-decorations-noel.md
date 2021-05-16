@@ -2,7 +2,7 @@
 layout: post
 title:  "Décorations de noël"
 date:   2020-12-12 12:00:00
-categories: articless
+categories: articles
 ---
 
 <img style="width: 100%; max-width: 600px;" src="{{ site.baseurl }}/images/posts/noel-2020-12-12.jpg" alt="Décoration porte"/>

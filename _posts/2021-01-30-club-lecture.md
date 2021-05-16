@@ -2,7 +2,7 @@
 layout: post
 title:  "Club de lecture"
 date:   2021-01-30 12:00:00
-categories: articless
+categories: articles
 tile-image: "club-lecture-001.jpg"
 ---
 

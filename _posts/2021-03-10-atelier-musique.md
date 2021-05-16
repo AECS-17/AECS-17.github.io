@@ -2,7 +2,7 @@
 layout: post
 title:  "Atelier musique"
 date:   2021-03-10 12:00:00
-categories: articless
+categories: articles
 summary: "Éveil musical"
 tile-image: "musique-001.jpg"
 ---

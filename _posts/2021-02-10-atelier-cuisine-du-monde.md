@@ -2,7 +2,7 @@
 layout: post
 title:  "Atelier Cuisine"
 date:   2021-02-10 12:00:00
-categories: articless
+categories: articles
 summary: "Tacos"
 tile-image: "cuisine-002.jpg"
 ---

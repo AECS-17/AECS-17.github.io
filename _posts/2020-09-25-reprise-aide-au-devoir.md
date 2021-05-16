@@ -2,7 +2,7 @@
 layout: post
 title:  "Reprise de l'aide aux devoirs"
 date:   2020-09-25 12:00:00
-categories: articless
+categories: articles
 ---
 
 Nous vous donnons rendez-vous dès lundi prochain au local de l'AECS pour la reprise de l'aide aux devoirs. Notre équipe de bénévoles est d'ores et déjà prête à aider les enfants !

@@ -2,7 +2,7 @@
 layout: post
 title:  "Soirée-Hommage à Douarlé, le jeudi 14 octobre 2010."
 date:   2010-10-20 12:12:00
-categories: articless
+categories: articles
 summary: "Une centaine d'habitants réunis pour une Soirée-Hommage à Douarlé"
 ---
 

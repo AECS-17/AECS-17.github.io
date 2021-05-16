@@ -2,7 +2,7 @@
 layout: post
 title:  "Atelier Informatique"
 date:   2021-03-31 12:00:00
-categories: articless
+categories: articles
 summary: "Initiation à la ligne de commande"
 tile-image: "informatique-002.jpg"
 ---

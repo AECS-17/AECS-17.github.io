@@ -2,7 +2,7 @@
 layout: post
 title:  "Atelier Informatique"
 date:   2020-12-05 12:00:00
-categories: articless
+categories: articles
 summary: "Création de bandes dessinées"
 tile-image: "informatique-001.jpg"
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "Atelier jeux de sociétés"
 date:   2020-10-19 12:00:00
-categories: articless
+categories: articles
 summary: "Rejoignez-nous à l'AECS pour un après-midi ludique !"
 ---
 
