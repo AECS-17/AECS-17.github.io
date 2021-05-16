@@ -8,7 +8,7 @@ order: 20
 <ul>
 <li class="style{{ forloop.index | plus:1 }}">
 <a href="{{ post.url | prepend:site.baseurl | prepend:site.url }}">
-<strong>{{ post.title }} ({{ post.date | date: "%Y/%m/%d"}})</strong><br/>
+<strong>{{ post.title }} ({{ post.date | date: "%d/%m/%Y"}})</strong><br/>
 <em>{{ post.summary }}</em>
 <br/>{{ post.excerpt }}
 </a>
