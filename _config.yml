@@ -19,12 +19,7 @@ font-awesome-icon-logo:
 
 # Social settings
 github_username: AECS-17
-# twitter_username: andrewbanchich
 facebook_URL: https://www.facebook.com/aecsparis17/
-# instagram_username: andrewbanchich
-# dribbble_username: andrewbanchich
-# 500px_username: andrewbanchich
-phone:
 
 # Build settings
 markdown: kramdown
