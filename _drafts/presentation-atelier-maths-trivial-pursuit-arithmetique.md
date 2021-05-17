@@ -7,7 +7,7 @@ categories: presentations
 tile-image: math-002.jpg
 ---
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Objectifs
 
@@ -17,7 +17,7 @@ tile-image: math-002.jpg
 
 </section>
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Matériel nécessaire
 
@@ -29,7 +29,7 @@ tile-image: math-002.jpg
 
 </section>
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Règle du jeu
 
@@ -41,7 +41,7 @@ Le déroulement général est celui du Trivial Pursuit :
 
 </section>
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Déplacement
 
@@ -51,7 +51,7 @@ Le déroulement général est celui du Trivial Pursuit :
 
 </section>
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Déplacement
 
@@ -61,7 +61,7 @@ Le déroulement général est celui du Trivial Pursuit :
 
 </section>
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Cases marrons
 
@@ -73,7 +73,7 @@ Le déroulement général est celui du Trivial Pursuit :
 
 </section>
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Cases jaunes et vertes
 
@@ -83,7 +83,7 @@ Le déroulement général est celui du Trivial Pursuit :
 
 </section>
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 
 ## Cases oranges
@@ -94,7 +94,7 @@ Le déroulement général est celui du Trivial Pursuit :
 
 </section>
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Cases oranges
 
@@ -106,7 +106,7 @@ Le déroulement général est celui du Trivial Pursuit :
 
 </section>
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Cases roses et bleues
 
@@ -116,7 +116,7 @@ Le déroulement général est celui du Trivial Pursuit :
 
 </section>
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Cases roses et bleues
 
@@ -127,7 +127,7 @@ Le déroulement général est celui du Trivial Pursuit :
 
 </section>
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 
 ## Case finale

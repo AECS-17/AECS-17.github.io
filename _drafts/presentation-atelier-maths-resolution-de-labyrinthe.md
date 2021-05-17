@@ -7,7 +7,7 @@ categories: presentations
 tile-image: math-001.jpg
 ---
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Objectifs
 
@@ -16,7 +16,7 @@ tile-image: math-001.jpg
 
 </section>
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Matériel nécessaire
 
@@ -26,7 +26,7 @@ tile-image: math-001.jpg
 
 </section>
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Règles de base
 
@@ -37,7 +37,7 @@ tile-image: math-001.jpg
 
 </section>
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Variante I
 
@@ -47,7 +47,7 @@ tile-image: math-001.jpg
 
 </section>
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Variante II
 
@@ -58,7 +58,7 @@ tile-image: math-001.jpg
 
 </section>
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Variante III
 
@@ -68,7 +68,7 @@ tile-image: math-001.jpg
 
 </section>
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Autres variantes
 

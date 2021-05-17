@@ -8,7 +8,7 @@ categories: presentations
 tile-image: informatique-003.jpg
 ---
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Organisation
 
@@ -23,7 +23,7 @@ tile-image: informatique-003.jpg
 </aside>
 
 </section>
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Bandes Dessinées (1/6)
 
@@ -42,7 +42,7 @@ tile-image: informatique-003.jpg
 </aside>
 
 </section>
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Bandes Dessinées (2/6)
 
@@ -58,7 +58,7 @@ tile-image: informatique-003.jpg
 </aside>
 
 </section>
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Bande Dessinées (3/6)
 
@@ -75,7 +75,7 @@ tile-image: informatique-003.jpg
 </aside>
 
 </section>
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Bandes Dessinées (4/6)
 
@@ -88,7 +88,7 @@ tile-image: informatique-003.jpg
 </aside>
 
 </section>
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Bande Dessinées (5/6)
 
@@ -102,7 +102,7 @@ tile-image: informatique-003.jpg
 </aside>
 
 </section>
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Bande Dessinées (6/6)
 
@@ -118,7 +118,7 @@ tile-image: informatique-003.jpg
 </aside>
 
 </section>
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Développement (1/3)
 
@@ -131,7 +131,7 @@ tile-image: informatique-003.jpg
 </aside>
 
 </section>
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Développement (2/3)
 
@@ -144,7 +144,7 @@ Expliquer la structure générale d’un fichier XML, et donner l’exemple d’
 </aside>
 
 </section>
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Développement (3/3)
 

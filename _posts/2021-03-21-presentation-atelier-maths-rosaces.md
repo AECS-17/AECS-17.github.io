@@ -10,7 +10,7 @@ tile-image: math-002.jpg
 
 <script type="text/javascript" src="{{ site.baseurl }}/assets/js/presentations/drawings.js"></script>
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Objectifs
 
@@ -21,7 +21,7 @@ tile-image: math-002.jpg
 
 </section>
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Un même problème sous plusieurs angles...
 
@@ -33,7 +33,7 @@ tile-image: math-002.jpg
 
 </section>
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Constructions à la règle et au compas
 
@@ -44,7 +44,7 @@ tile-image: math-002.jpg
 
 </section>
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## La rosace à 6 pétales
 
@@ -54,7 +54,7 @@ Rosace "classique" avec des cercles de rayon fixe :
 
 </section>
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Taille des pétales 1/3
 
@@ -65,7 +65,7 @@ La largeur "classique" est un quart de la longueur.
 
 </section>
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Taille des pétales 2/3
 
@@ -76,7 +76,7 @@ est divisée par *quatre*.
 
 </section>
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Taille des pétales 3/3
 
@@ -86,7 +86,7 @@ Pour une longueur de pétale fixe et un rayon d'arcs multiplié par deux, la lar
 
 </section>
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Dessin des pétales 1/2
 
@@ -97,7 +97,7 @@ En choisissant la longueur et le rayon des arcs
 
 </section>
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Dessin des pétales 2/2
 
@@ -107,7 +107,7 @@ En choisissant la longueur et la largeur des pétales.
 
 </section>
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 
 ## Rosace dédoublée
@@ -118,7 +118,7 @@ En ajoutant les bissectrices des 6 pétales, on obtient une rosace à 12 pétale
 
 </section>
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Rosace extraite
 
@@ -128,7 +128,7 @@ En sélectionnant un pétale sur deux ou sur trois, on extrait une rosace à 3 o
 
 </section>
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Rosace à 5 pétales
 
@@ -139,7 +139,7 @@ En utilisant les sommets d'un pentagone régulier, on dessine une rosace à 5 p�
 </section>
 
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 
 ## Rosaces dédoublées
@@ -150,7 +150,7 @@ On dédouble les rosaces à 2 et 5 pétales...
 
 </section>
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 
 ## PPCM de deux rosaces
@@ -161,7 +161,7 @@ En combinant les rosaces à 3 et 5 pétales, on obtient celle à 15 = 3 × 5 = [
 
 </section>
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## En résumé
 
@@ -176,7 +176,7 @@ Et celles à 7, 9, 11, 13, 14, 17, 18, 19 pétales ?
 
 </section>
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 
 ## Pour aller plus loin

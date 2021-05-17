@@ -7,7 +7,7 @@ categories: presentations
 tile-image: langue-001.jpg
 ---
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Une liste d'objectifs
 
@@ -20,7 +20,7 @@ tile-image: langue-001.jpg
 
 </section>
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Une liste numérotée
 
@@ -36,7 +36,7 @@ Nous allons étudier progressivement les 28 lettres:
 
 </section>
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Une belle image
 
@@ -44,7 +44,7 @@ Nous allons étudier progressivement les 28 lettres:
 
 </section>
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Des emphases et liens
 
@@ -53,7 +53,7 @@ Nous allons étudier progressivement les 28 lettres:
 
 </section>
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Un petit tableau
 

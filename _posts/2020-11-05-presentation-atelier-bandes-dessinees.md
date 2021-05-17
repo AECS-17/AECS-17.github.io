@@ -8,7 +8,7 @@ categories: presentations
 tile-image: informatique-002.jpg
 ---
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Objectifs<br>de l'atelier
 
@@ -28,7 +28,7 @@ Les objectifs de cet atelier sont "A E C S":
 
 </section>
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## Première<br>Session
 
@@ -46,7 +46,7 @@ Les objectifs de cet atelier sont "A E C S":
 
 </section>
 
-<section class="slide" markdown="1">
+<section markdown="1">
 
 ## C'est parti ! 🚀
 
