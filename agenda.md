@@ -8,6 +8,7 @@ order: 10
 
 * Mercredi 19/05/2021 (17h30-19h): [Atelier Informatique : Programmation Python et Musique Midi](https://aecs-17.github.io/AECS-informatique/python-midi/)
 * Mercredi 19/05/2021 (après 19h): Réunion des bénévoles
+* Mercredi 27/05/2021 (17h30-19h): Atelier Jardinage. Parents et habitants de la villa St Ange sont conviés.
 
 ## ⌚ Horaire d'ouverture
 
