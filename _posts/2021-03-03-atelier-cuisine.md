@@ -2,7 +2,6 @@
 layout: post
 title:  "Atelier cuisine"
 date:   2021-03-03 12:00:00
-categories: articles
 summary: "Bagels au saumon"
 tile-image: "cuisine-002.jpg"
 ---

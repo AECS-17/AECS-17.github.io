@@ -2,7 +2,6 @@
 layout: post
 title:  "Atelier Cuisine"
 date:   2020-12-21 12:00:00
-categories: articles
 summary: "Sushis de noël"
 tile-image: "cuisine-004.jpg"
 ---

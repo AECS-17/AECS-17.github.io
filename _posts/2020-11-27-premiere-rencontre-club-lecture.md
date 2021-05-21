@@ -2,7 +2,6 @@
 layout: post
 title:  "Club de lecture"
 date:   2020-11-27 12:00:00
-categories: articles
 summary: "Première rencontre"
 tile-image: "club-lecture-002.jpg"
 ---

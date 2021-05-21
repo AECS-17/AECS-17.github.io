@@ -2,7 +2,6 @@
 layout: post
 title:  "Atelier Expériences Scientifiques"
 date:   2021-03-27 12:00:00
-categories: articles
 summary: "Ampli gobelet, horloge patate, mini volcan et anémomètre"
 tile-image: "experience-scientifique-001.jpg"
 ---

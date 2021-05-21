@@ -2,7 +2,6 @@
 layout: post
 title:  "Atelier Informatique"
 date:   2021-05-19 19:00:00
-categories: articles
 summary: ""
 tile-image: "informatique-004.jpg"
 ---

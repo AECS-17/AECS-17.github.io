@@ -2,7 +2,6 @@
 layout: post
 title:  "Réouverture de l'association"
 date:   2020-09-01 12:00:00
-categories: articles
 ---
 
 La Villa Saint Ange est en plein travaux et notre local également.

@@ -2,7 +2,6 @@
 layout: post
 title:  "À vos pinceaux !"
 date:   2020-10-16 12:00:00
-categories: articles
 ---
 
 Rendez-vous ce soir à l'AECS pour l'activité peinture ! Notre équipe sera heureuse de se mettre au service des petits Picasso en herbe !

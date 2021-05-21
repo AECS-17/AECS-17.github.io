@@ -2,7 +2,6 @@
 layout: post
 title:  "Rencontre Bénévoles"
 date:   2021-05-19 21:00:00
-categories: articles
 summary: ""
 tile-image: "reunion-002.jpg"
 ---

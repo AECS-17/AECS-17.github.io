@@ -2,7 +2,6 @@
 layout: post
 title:  "Atelier Cuisine"
 date:   2021-01-29 12:00:00
-categories: articles
 summary: "Crêpes spirales"
 tile-image: "cuisine-001.jpg"
 ---

@@ -2,7 +2,6 @@
 layout: post
 title:  "Atelier cuisine"
 date:   2021-01-30 12:00:00
-categories: articles
 summary: "Petits sablés"
 tile-image: "cuisine-003.jpg"
 ---

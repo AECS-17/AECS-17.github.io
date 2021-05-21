@@ -2,7 +2,6 @@
 layout: post
 title:  "Atelier Cuisine"
 date:   2021-03-17 12:00:00
-categories: articles
 summary: "Wraps au thon"
 tile-image: "cuisine-001.jpg"
 ---

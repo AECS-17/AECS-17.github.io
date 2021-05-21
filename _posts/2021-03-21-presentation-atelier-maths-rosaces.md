@@ -4,7 +4,6 @@ title:  "Atelier Maths"
 subtitle: Dessin de Rosaces
 summary: "Présentation de l'atelier de mercredi sur les dessins de rosaces."
 date:   2021-03-21 12:00:00
-categories: presentations
 tile-image: math-002.jpg
 ---
 

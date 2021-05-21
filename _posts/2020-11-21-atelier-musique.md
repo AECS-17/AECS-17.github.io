@@ -2,7 +2,6 @@
 layout: post
 title:  "Atelier musique"
 date:   2020-11-21 12:00:00
-categories: articles
 tile-image: "musique-002.jpg"
 ---
 

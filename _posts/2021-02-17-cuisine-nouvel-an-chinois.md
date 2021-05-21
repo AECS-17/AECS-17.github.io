@@ -2,7 +2,6 @@
 layout: post
 title:  "Atelier Cuisine"
 date:   2021-02-17 12:00:00
-categories: articles
 summary: "Nouvel an chinois"
 tile-image: "cuisine-004.jpg"
 ---
