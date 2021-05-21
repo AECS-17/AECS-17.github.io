@@ -1,6 +1,7 @@
 ---
 layout: page
-title: 👫‍ Notre équipe
+title: Notre équipe
+menu_icon: 👫‍
 order: 90
 ---
 

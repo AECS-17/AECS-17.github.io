@@ -1,6 +1,7 @@
 ---
 layout: page
-title: 📰 Blog
+title: Blog
+menu_icon: 📰
 order: 20
 ---
 

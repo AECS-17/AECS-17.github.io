@@ -1,6 +1,7 @@
 ---
 layout: default
-title: 🏠 Accueil
+title: Accueil
+menu_icon: 🏠
 order: 0
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: 🏺 Rétrospective
+title: Rétrospective
+menu_icon: 🏺
 order: 20
 ---
 

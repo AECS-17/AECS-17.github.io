@@ -1,6 +1,7 @@
 ---
 layout: page
-title: 📅 Agenda
+title: Agenda
+menu_icon: 📅
 order: 10
 ---
 

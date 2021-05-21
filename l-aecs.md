@@ -1,6 +1,7 @@
 ---
 layout: page
-title: ℹ️ L'AECS
+title: L'AECS
+menu_icon: ℹ️
 order: 10
 ---
 
