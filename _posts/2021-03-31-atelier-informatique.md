@@ -12,7 +12,7 @@ tile-image: "informatique-002.jpg"
 * Encadrants : Frédéric, Olivier
 * Enfants présents : Aurélien, Aïssa, Adnane, Saïd, Ilyès, Jeremy
 
-Il s'agissait du premier atelier informatique pour initier les jeunes au développement de logiciel. Dans cette session, nous avons vu le [langage Bash et la ligne de commande](https://aecs-17.github.io/AECS-informatique/ligne-de-commande/) sous Linux. Notez que la ligne de commande sous macOS et le [Powershell](https://docs.microsoft.com/en-us/powershell/) de Windows utilisent des commandes similaires.
+Il s'agissait du premier atelier informatique pour initier les jeunes au développement de logiciel. Dans cette session, nous avons vu le [langage Bash et la ligne de commande]({{ site.baseurl }}/AECS-informatique/ligne-de-commande/) sous Linux. Notez que la ligne de commande sous macOS et le [Powershell](https://docs.microsoft.com/en-us/powershell/) de Windows utilisent des commandes similaires.
 
 Dans un premier temps, les enfants ont pu essayer les différentes commandes pour manipuler des fichiers et dossiers en comparant avec l'interface graphique :
 
@@ -28,7 +28,7 @@ Dans un premier temps, les enfants ont pu essayer les différentes commandes pou
 
 Nous avons vu comment obtenir la documentation d'une commande inconnue à l'aide avec l'option `--help` ou la commande `man`. Nous nous sommes aussi amusés avec le métacaractère `*` et l'autocomplétion par la touche `tab`.
 
-Ensuite, nous avons créé et exécuté un [petit script](https://github.com/AECS-17/AECS-informatique/blob/master/ligne-de-commande/count.sh) avec la commande `bash` qui compte lentement de 1 à 100. Il peut être interrompu avec le raccourci clavier `Ctrl+C`. La commande `ps` affiche les processus et nous avons vu comment utilisé la commande `kill` pour tuer ce script ou bien son propre terminal bash. La commande `time` a aussi permis de mesurer son temps d'exécution.
+Ensuite, nous avons créé et exécuté un [petit script]({{ site.baseurl }}/AECS-17/AECS-informatique/blob/master/ligne-de-commande/count.sh) avec la commande `bash` qui compte lentement de 1 à 100. Il peut être interrompu avec le raccourci clavier `Ctrl+C`. La commande `ps` affiche les processus et nous avons vu comment utilisé la commande `kill` pour tuer ce script ou bien son propre terminal bash. La commande `time` a aussi permis de mesurer son temps d'exécution.
 
 <img style="width: 100%; max-width: 600px;" src="{{ site.baseurl }}/images/posts/atelier-bash-002.jpg" alt="Photo atelier"/>
 

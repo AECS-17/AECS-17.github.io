@@ -12,7 +12,7 @@ tile-image: "informatique-004.jpg"
 * Encadrants : Frédéric, Clément
 * Enfants présents : Adnane, Aurélien, David, Ilyès, Jeremy
 
-Il s'agissait du second atelier informatique pour initier les jeunes au développement de logiciel. Dans cette session, nous avons vu le [langage Python et la musique MIDI](https://aecs-17.github.io/AECS-informatique/python-midi/) sous Linux. Dans un premier temps, les enfants ont découvert comment utiliser un gestionnaire de connexions MIDI pour relier la sortie d'un clavier MIDI virtuel avec l'entrée d'un synthétiseur, afin de pouvoir jouer de la musique sur leur ordinateur. Les casques étaient vivement conseillés afin d'éviter la cacophonie !
+Il s'agissait du second atelier informatique pour initier les jeunes au développement de logiciel. Dans cette session, nous avons vu le [langage Python et la musique MIDI]({{ site.baseurl }}/AECS-informatique/python-midi/) sous Linux. Dans un premier temps, les enfants ont découvert comment utiliser un gestionnaire de connexions MIDI pour relier la sortie d'un clavier MIDI virtuel avec l'entrée d'un synthétiseur, afin de pouvoir jouer de la musique sur leur ordinateur. Les casques étaient vivement conseillés afin d'éviter la cacophonie !
 
 <img style="width: 100%; max-width: 600px;" src="{{ site.baseurl }}/images/posts/2021-05-19-atelier-informatique-002.jpg" alt="Photo 4 enfants ordinateurs"/>
 

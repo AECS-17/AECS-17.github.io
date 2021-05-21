@@ -122,7 +122,7 @@ tile-image: informatique-003.jpg
 
 ## Développement (1/3)
 
-* Les enfants se familiariseront avec le système Linux. Une introduction à la [ligne de commande et au langage bash](https://aecs-17.github.io/AECS-informatique/ligne-de-commande/) sera effectuée. Cela sera utile pour la séance du jour et [les futures](https://aecs-17.github.io/AECS-informatique/#d%C3%A9veloppement-logiciel).<br/>
+* Les enfants se familiariseront avec le système Linux. Une introduction à la [ligne de commande et au langage bash]({{ site.baseurl }}/AECS-informatique/ligne-de-commande/) sera effectuée. Cela sera utile pour la séance du jour et [les futures]({{ site.baseurl }}/AECS-informatique/#d%C3%A9veloppement-logiciel).<br/>
   <img src="{{ site.baseurl }}/images/presentations/ligne-de-commande.png" alt="Ligne de commande" style="width: 50%;"/>
 
 <aside class="notes" markdown="1">
