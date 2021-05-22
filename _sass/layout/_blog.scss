@@ -1,0 +1,12 @@
+#tag_list ul {
+  list-style: none;
+}
+
+#tag_list li {
+    display: inline;
+}
+
+#tag_list li > a {
+    border: 1px dotted;
+    padding: .2em;
+}

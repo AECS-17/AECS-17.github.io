@@ -4,6 +4,7 @@ title:  "Rencontre Bénévoles"
 date:   2021-05-19 21:00:00
 summary: ""
 tile-image: "reunion-002.jpg"
+tags: réunions
 ---
 
 <img style="width: 100%; max-width: 800px;" src="{{ site.baseurl }}/images/posts/2021-05-19-reunion-benevoles.jpg" alt="Photo réunion bénévole"/>

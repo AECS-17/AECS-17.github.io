@@ -4,6 +4,7 @@ title:  "Atelier Maths"
 date:   2021-03-24 12:00:00
 summary: "Dessins de Rosaces"
 tile-image: "math-001.jpg"
+tags: maths activités
 ---
 
 <img alt="Photo enfants et tableau" style="width: 100%; max-width: 600px;" src="{{ site.baseurl }}/images/posts/atelier-math-rosace-2021-03-24-002.jpg">

@@ -4,6 +4,7 @@ title:  "Atelier musique"
 date:   2020-12-19 12:00:00
 summary: "Éveil musical"
 tile-image: "musique-001.jpg"
+tags: musique activités
 ---
 
 <img style="width: 100%; max-width: 600px;" src="{{ site.baseurl }}/images/posts/musique-2020-12-19.jpg" alt="Enfants jouant de la musique"/>

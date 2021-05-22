@@ -1,0 +1,36 @@
+<ul id="tag_list">
+  <li><a href="./">tout</a></li>
+{% assign tags = site.tags | sort %}
+{% for tag in tags %}
+  <li><a href="{{ tag[0] }}.html">{{ tag[0] }}</a></li>
+{% endfor %}
+</ul>
+
+<ul>
+{% for post in site.posts %}
+
+{% if include.tag %}
+  {% assign display_post = false %}
+  {% for tag in post.tags %}
+  {% if tag == include.tag %}
+    {% assign display_post = true %}
+  {% endif %}
+  {% endfor %}
+{% else %}
+  {% assign display_post = true %}
+{% endif %}
+
+{% if display_post %}
+<li class="style{{ forloop.index | plus:1 }}">
+<a href="{{ post.url | prepend:site.baseurl | prepend:site.url }}">
+<strong>{{ post.title }} ({{ post.date | date: "%d/%m/%Y"}})</strong>
+{% if post.summary %}
+<br/><em>{{ post.summary }}</em>
+{% endif %}
+<br/>{{ post.excerpt }}
+</a><br/>
+</li>
+{% endif %}
+
+{% endfor %}
+</ul>

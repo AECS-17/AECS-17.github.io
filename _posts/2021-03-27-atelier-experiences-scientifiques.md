@@ -4,6 +4,7 @@ title:  "Atelier Expériences Scientifiques"
 date:   2021-03-27 12:00:00
 summary: "Ampli gobelet, horloge patate, mini volcan et anémomètre"
 tile-image: "experience-scientifique-001.jpg"
+tags: sciences activités
 ---
 
 <img alt="Photo enfants et ampli gobelet" style="width: 100%; max-width: 600px;" src="{{ site.baseurl }}/images/posts/exp-scient-000.jpg">

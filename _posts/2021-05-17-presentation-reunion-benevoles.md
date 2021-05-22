@@ -5,6 +5,7 @@ subtitle: AECS, 19 mai 2021
 summary: "Présentation pour la réunion des bénévoles de mercredi"
 date:   2021-05-18 12:00:00 UTC+2
 tile-image: reunion-001.jpg
+tags: réunions
 ---
 
 <style>

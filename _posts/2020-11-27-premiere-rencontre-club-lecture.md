@@ -4,6 +4,7 @@ title:  "Club de lecture"
 date:   2020-11-27 12:00:00
 summary: "Première rencontre"
 tile-image: "club-lecture-002.jpg"
+tags: lecture activités
 ---
 
 <img style="width: 100%; max-width: 600px;" src="{{ site.baseurl }}/images/posts/club-lecture.jpg" alt="Photo enfants livres"/>

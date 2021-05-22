@@ -2,6 +2,7 @@
 layout: post
 title:  "Rencontre des bénévoles"
 date:   2020-09-22 12:00:00
+tags: réunions
 ---
 
 <img style="width: 100%; max-width: 600px;" src="{{ site.baseurl }}/images/posts/benevole_rencontre_1.jpg" alt="Photo réunion bénévoles"/>

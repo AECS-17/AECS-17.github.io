@@ -4,6 +4,7 @@ title:  "Atelier Cuisine"
 date:   2021-02-17 12:00:00
 summary: "Nouvel an chinois"
 tile-image: "cuisine-004.jpg"
+tags: cuisine activités
 ---
 
 <img style="width: 100%; max-width: 600px;" src="{{ site.baseurl }}/images/posts/cuisine-nouvel-an-chinois-2021-02.jpg" alt="Cuisine Nouvel An Chinois"/>

@@ -5,6 +5,7 @@ subtitle: AECS, 5 décembre 2020
 summary: "Présentation de l'atelier BD du 5 décembre 2020."
 date:   2020-11-05 12:00:00
 tile-image: informatique-002.jpg
+tags: activités informatique
 ---
 
 <section markdown="1">

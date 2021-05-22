@@ -3,6 +3,7 @@ layout: post
 title:  "Garde-manger solidaire"
 date:   2021-05-06 12:00:00
 summary: "Nous cherchons des voisins pour créer et animer un garde-manger solidaire"
+tags: lien-social
 ---
 
 <img style="width: 100%; max-width: 600px;" src="{{ site.baseurl }}/images/posts/garde-manger-solidaire-1.jpg" alt="Affiche Garde Manger"/>

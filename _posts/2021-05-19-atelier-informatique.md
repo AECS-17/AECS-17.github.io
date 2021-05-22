@@ -4,6 +4,7 @@ title:  "Atelier Informatique"
 date:   2021-05-19 19:00:00
 summary: "Programmation Python et Musique MIDI"
 tile-image: "informatique-004.jpg"
+tags: informatique activités
 ---
 
 <img style="width: 100%; max-width: 800px;" src="{{ site.baseurl }}/images/posts/2021-05-19-atelier-informatique-001.jpg" alt="Photo atelier"/>

@@ -3,6 +3,7 @@ layout: post
 title:  "Budget participatif passage St-Ange"
 date:   2021-04-05 12:00:00
 summary: "Votez pour notre proposition de budget pour le porche St-Ange !"
+tags: lien-social
 ---
 
 <img style="width: 100%; max-width: 600px;" src="{{ site.baseurl }}/images/posts/porche-st-ange.jpg" alt="Photo Passage St Ange"/>
