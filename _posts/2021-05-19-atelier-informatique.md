@@ -2,7 +2,7 @@
 layout: post
 title:  "Atelier Informatique"
 date:   2021-05-19 19:00:00
-summary: ""
+summary: "Programmation Python et Musique MIDI"
 tile-image: "informatique-004.jpg"
 ---
 
