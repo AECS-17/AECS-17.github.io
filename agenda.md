@@ -8,7 +8,7 @@ order: 10
 ## 📝 À venir
 
 * Mercredi 27/05/2021 (18h30-19h30) : Mise en Beauté de la Villa Saint-Ange (Jardinage, nettoyage, plantation de fleurs). Parents et habitants de la villa St Ange sont conviés.
-* Mercredi 02/06/2021 (18h30-19h30) : Atelier Théâtre.
+*  🎭 Atelier théâtre improvisation. Tous les mercredi de 18h30 à 19h30, à partir du 2 juin 2021.
 
 ## ⌚ Horaire d'ouverture
 
@@ -22,9 +22,11 @@ order: 10
 * Lundi, mardi, jeudi et samedi matin.
 * Réservé aux adhérents.
 * Sur [inscription](#footer) uniquement.
+* À partir du CE2.
 
 ## 🎨 Activités
 
 * Mercredi, vendredi et samedi après-midi.
 * Gratuit pour tous les enfants du quartiers.
 * Sur [inscription](#footer) uniquement.
+* À partir de 8 ans.
