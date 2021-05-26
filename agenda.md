@@ -7,7 +7,8 @@ order: 10
 
 ## 📝 À venir
 
-* Mercredi 27/05/2021 (18h30-19h30): Mise en Beauté de la Villa Saint-Ange (Jardinage, nettoyage, plantation de fleurs). Parents et habitants de la villa St Ange sont conviés.
+* Mercredi 27/05/2021 (18h30-19h30) : Mise en Beauté de la Villa Saint-Ange (Jardinage, nettoyage, plantation de fleurs). Parents et habitants de la villa St Ange sont conviés.
+* Mercredi 02/06/2021 (18h30-19h30) : Atelier Théâtre.
 
 ## ⌚ Horaire d'ouverture
 
