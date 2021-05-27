@@ -9,6 +9,7 @@ order: 10
 
 * 🎭 Atelier théâtre improvisation. Tous les mercredi de 18h30 à 19h30, à partir du mercredi 02/06.
 * Mercredi 23/06 Assemblée générale avec parents et bénévoles.
+* Mardi 01/06 19h : 1ére rencontre "Participer à la création du 1er garde-manger solidaire de la Porte Saint-Ouen". 
 
 ## ⌚ Horaire d'ouverture
 
