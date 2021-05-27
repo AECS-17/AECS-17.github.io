@@ -7,8 +7,9 @@ order: 20
 
 ## 2021
 
-* Mercredi 19/05/2021 (après 19h): Réunion des bénévoles
-* Mercredi 19/05/2021 (17h30-19h): [Atelier Informatique : Programmation Python et Musique Midi]({{ site.baseurl }}/AECS-informatique/python-midi/)
+* Mercredi 27/05 (18h30-19h30) : Mise en Beauté de la Villa Saint-Ange (Jardinage, nettoyage, plantation de fleurs). Parents et habitants de la villa St Ange sont conviés.
+* Mercredi 19/05 (après 19h): Réunion des bénévoles
+* Mercredi 19/05 (17h30-19h): [Atelier Informatique : Programmation Python et Musique Midi]({{ site.baseurl }}/AECS-informatique/python-midi/)
 * Vendredi 02/04 17h00-18h45 Sport
 * Mercredi 31/03 19h30-20h30 Réunion des bénévoles
 * Mercredi 31/03 17h00-18h45 [Informatique : Initiation à la ligne de commande]({% post_url  2021-03-31-atelier-informatique  %})
