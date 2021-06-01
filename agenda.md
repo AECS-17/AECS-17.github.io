@@ -30,4 +30,4 @@ order: 10
 * Mercredi, vendredi et samedi après-midi.
 * Gratuit pour tous les enfants du quartiers.
 * Sur [inscription](#footer) uniquement.
-* À partir de 8 ans.
+* Pour les enfants à partir de 8 ans.
