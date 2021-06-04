@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Atelier Dessin"
-date:   2021-06-02 20:00:00
+date:   2021-06-04 20:00:00
 summary: "48h de la Bande Dessinée"
 tile-image: "bandes-dessinees-001.jpg"
 tags: dessin activités
