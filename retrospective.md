@@ -7,9 +7,12 @@ order: 20
 
 ## 2021
 
-* Mercredi 27/05 (18h30-19h30) : Mise en Beauté de la Villa Saint-Ange (Jardinage, nettoyage, plantation de fleurs). Parents et habitants de la villa St Ange sont conviés.
-* Mercredi 19/05 (après 19h): Réunion des bénévoles
-* Mercredi 19/05 (17h30-19h): [Atelier Informatique : Programmation Python et Musique Midi]({{ site.baseurl }}/AECS-informatique/python-midi/)
+* Vendredi 04/06 (17h30-19h) : [48h de la BD]({% post_url 2021-06-04-bandes-dessinees %}) ; stand lecture et création devant l'AECS, dans la cour de la Villa Saint-Ange. Ouvert à tous les habitants du quartier.
+* Mercredi 02/06 : [Théâtre improvisation]({% post_url 2021-06-02-theatre-improvisation %}).
+* Mardi 01/06 : Réunion garde-manger solidaire.
+* Mercredi 27/05 (18h30-19h30) : [Mise en Beauté de la Villa Saint-Ange]({% post_url 2021-05-27-mise-en-beaute %}) (Jardinage, nettoyage, plantation de fleurs). Parents et habitants de la villa St Ange sont conviés.
+* Mercredi 19/05 (après 19h): [Réunion des bénévoles]({% post_url 2021-05-19-reunion-benevoles %})
+* Mercredi 19/05 (17h30-19h): [Atelier Informatique : Programmation Python et Musique Midi]({% post_url 2021-05-19-atelier-informatique %})
 * Vendredi 02/04 17h00-18h45 Sport
 * Mercredi 31/03 19h30-20h30 Réunion des bénévoles
 * Mercredi 31/03 17h00-18h45 [Informatique : Initiation à la ligne de commande]({% post_url  2021-03-31-atelier-informatique  %})

@@ -7,11 +7,9 @@ tile-image: "bandes-dessinees-001.jpg"
 tags: dessin activités
 ---
 
-Ce week-end, se déroulent les [48 heures de la bande dessinée](http://www.48hbd.com/) !
-
 <img style="width: 100%; max-width: 800px;" src="{{ site.baseurl }}/images/posts/2021-06-04-bandes-dessinees-001.jpg" alt="Stand BD"/>
 
-Nous en avons profité pour exposer les amusantes planches des enfants réalisées à l'aide du logiciel [BDnF](https://bdnf.bnf.fr/index.html) lors de précédents ateliers informatique...
+Ce week-end, se déroulent les [48 heures de la bande dessinée](http://www.48hbd.com/) ! Nous en avons profité pour exposer les amusantes planches des enfants réalisées à l'aide du logiciel [BDnF](https://bdnf.bnf.fr/index.html) lors de précédents ateliers informatique...
 
 <img style="width: 100%; max-width: 800px;" src="{{ site.baseurl }}/images/posts/2021-06-04-bandes-dessinees-005.jpg" alt="Enfant planche et découpage"/>
 

@@ -8,7 +8,6 @@ order: 10
 ## 📝 À venir
 
 * 🎭 Atelier théâtre improvisation. Tous les mercredi de 18h30 à 19h30, à partir du mercredi 02/06.
-* Vendredi 04/06 (17h30-19h) : 48h de la BD ; stand lecture et création devant l'AECS, dans la cour de la Villa Saint-Ange. Ouvert à tous les habitants du quartier.
 * Mercredi 23/06 : Assemblée générale avec parents et bénévoles.
 
 ## ⌚ Horaire d'ouverture
