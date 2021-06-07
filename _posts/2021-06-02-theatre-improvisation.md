@@ -11,7 +11,7 @@ Ce soir, avec la fin des "mesures de freinage" c'était le grand retour de l'ate
 
 <img style="width: 100%; max-width: 600px;" src="{{ site.baseurl }}/images/posts/2021-06-02-theatre-001.jpg" alt="Photo atelier 1"/>
 
-Nos bénévoles Juliette et Pauline, élèves du Cours Florent, ont su captiver les jeunes qui ont exprimé leur inventivité et montrer leurs talents de comédiens. Les participants ont été ravis et en redemandent !
+Nos bénévoles Juliette et Pauline, élèves du Cours Florent, ont su captiver les jeunes qui ont exprimé leur inventivité et montré leurs talents de comédiens. Les participants ont été ravis et en redemandent !
 
 <img style="width: 100%; max-width: 600px;" src="{{ site.baseurl }}/images/posts/2021-06-02-theatre-002.jpg" alt="Photo atelier 2"/>
 
