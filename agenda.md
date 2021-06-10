@@ -7,6 +7,7 @@ order: 10
 
 ## 📝 À venir
 
+* Atelier Peinture "Portraits de Vacances". Vendredi 11/06 à 17h et Samedi à 14h. 
 * 🎭 Atelier théâtre improvisation. Tous les mercredi de 18h30 à 19h30, à partir du mercredi 02/06.
 * Mercredi 23/06 : Assemblée générale avec parents et bénévoles.
 
