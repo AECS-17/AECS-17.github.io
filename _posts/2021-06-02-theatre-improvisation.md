@@ -7,9 +7,9 @@ tile-image: "theatre-001.jpg"
 tags: theatre activités
 ---
 
-Ce soir, avec la fin des "mesures de freinage" c'était le grand retour de l'atelier théâtre et improvisation !
-
 <img style="width: 100%; max-width: 600px;" src="{{ site.baseurl }}/images/posts/2021-06-02-theatre-001.jpg" alt="Photo atelier 1"/>
+
+Ce soir, avec la fin des "mesures de freinage" c'était le grand retour de l'atelier théâtre et improvisation !
 
 Nos bénévoles Juliette et Pauline, élèves du Cours Florent, ont su captiver les jeunes qui ont exprimé leur inventivité et montré leurs talents de comédiens. Les participants ont été ravis et en redemandent !
 
