@@ -7,6 +7,8 @@ order: 20
 
 ## 2021
 
+* Mardi 11/06 21h-23h. Coupe d'Europe : France-Allemagne.
+* Vendredi 11/06 à 17h et Samedi à 14h. Atelier Peinture "Portraits de Vacances".
 * Vendredi 04/06 (17h30-19h) : [48h de la BD]({% post_url 2021-06-04-bandes-dessinees %}) ; stand lecture et création devant l'AECS, dans la cour de la Villa Saint-Ange. Ouvert à tous les habitants du quartier.
 * Mercredi 02/06 : [Théâtre improvisation]({% post_url 2021-06-02-theatre-improvisation %}).
 * Mardi 01/06 : Réunion garde-manger solidaire.
