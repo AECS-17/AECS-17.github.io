@@ -10,7 +10,7 @@ order: 10
 * Lundi 21/06 (17h30-19h) : Concours jeux de société 🎲 ; musique 🎹.
 * Mardi 22/06 (17h30-19h) : Atelier cuisine (sorbets) 🍨.
 * Mercredi 23/06 (18h30-19h30) : Théâtre improvisation 🎭.
-* Mercredi 23/06 (19h45-20h45) : Assemblée générale avec parents et bénévoles. 👫🧑🏿‍🤝‍🧑🏼👭👫🏿
+* Mercredi 23/06 (19h45-20h45) : Assemblée générale avec parents et bénévoles. Sur place et en visioconférence. 👫🧑🏿‍🤝‍🧑🏼👭👫🏿
 * Mercredi 23/06 (21h-23h) : Coupe d'Europe Diffusion France-Portugual ⚽.
 * Jeudi 24/06 (17h-19h) : Sortie au parc avec pique-nique 🧺🥖, danses afro-cubaines 💃🏾, sports 🏓 et théâtre improvisation 🎭.
 * Mercredi 30/06 (17h30-19h) : Théâtre improvisation 🎭.
