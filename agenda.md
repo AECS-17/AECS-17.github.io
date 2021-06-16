@@ -7,13 +7,15 @@ order: 10
 
 ## 📝 À venir
 
-* Lundi 21/06 (17h30-19h) : Concours jeux de société 🎲 ; musique 🎹.
-* Mardi 22/06 (17h30-19h) : Atelier cuisine (sorbets) 🍨.
-* Mercredi 23/06 (18h30-19h30) : Théâtre improvisation 🎭.
+* Lundi 21/06 (17h30-19h) : Concours jeux de société 🎲
+* Mardi 22/06 (18h00-19h) : Atelier cuisine (sorbets) 🍨
+* Mercredi 23/06 (18h30-19h30) : Théâtre improvisation 🎭
 * Mercredi 23/06 (19h45-20h45) : Assemblée générale avec parents et bénévoles. Sur place et en visioconférence. 👫🧑🏿‍🤝‍🧑🏼👭👫🏿
 * Mercredi 23/06 (21h-23h) : Coupe d'Europe Diffusion France-Portugual ⚽.
 * Jeudi 24/06 (17h-19h) : Sortie au parc avec pique-nique 🧺🥖, danses afro-cubaines 💃🏾, sports 🏓 et théâtre improvisation 🎭.
+* Lundi 28/06 (17h30-19h) : Atelier musique 🎹
 * Mercredi 30/06 (17h30-19h) : Théâtre improvisation 🎭.
+* Vendredi 2/07 (17h30-19h) : e-sport éducatif (L'Attaque de l'Énigmatique et Carnivore Sphinge). 🎮
 
 ## ⌚ Horaire d'ouverture
 
