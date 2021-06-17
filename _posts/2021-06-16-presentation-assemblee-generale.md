@@ -29,11 +29,11 @@ tags: réunions
 
 ## 🗳️ Votes
 
-* Élection du bureau ; candidats déclarés :
+1. Élection du bureau ; candidats déclarés :
   - Président : Denis
   - Trésorière : Margaux
   - Secrétaire : Frédéric
-* ...
+2. Changer le montant de la cotisation annuelle.
 </section>
 
 <section markdown="1">
@@ -43,7 +43,7 @@ tags: réunions
 * Soutien scolaire ✅
 * Activités ✅
 * Implication des parents dans les activités
-  - e.g. débats ludiques
+  - e.g. débats ludiques, sorties, ...
 * Rencontre entre bénévoles et parents
 * Aide à l'orientation
 * Médiation familiale
@@ -107,7 +107,7 @@ tags: réunions
 
 <img style="width: 200px;" src="{{ site.baseurl }}/images/posts/2021-06-09-theatre-001.jpg" alt="Photo enfants cercle"/>
 <img style="width: 200px;" src="{{ site.baseurl }}/images/posts/arabe-2021-19-02.jpg" alt="Photo atelier langue arabe"/>
-<img style="width: 150px;" src="{{ site.baseurl }}/images/posts/atelier-lecture-fevrier-2021.jpg" alt="Enfant avec livres"/>
+<img style="width: 150px;" src="{{ site.baseurl }}/images/posts/atelier-lecture-fevrier-2021.jpg" alt="Enfant avec livres"/><br/>
 <img style="width: 350px;" src="{{ site.baseurl }}/images/posts/atelier-bd.jpg" alt="photos atelier bd"/>
 
 </section>
@@ -147,10 +147,12 @@ tags: réunions
 
 ## Activités Juillet-Août
 
-* Disponibilité des bénévoles ?
-* Présence des familles ?
-* Continuer les activités existantes ?
-* Nouvelles activités avec le beau temps et le déconfinement ?
-* ...
+* Objectif : 1 activité par semaine.
+  - Disponibilité des bénévoles ?
+  - Présence des familles ?
+* Quelques idées
+  - Continuer les activités existantes ?
+  - Nouvelles activités avec le beau temps et le déconfinement ?
+  - Activités de quartier pour faire connaitre l'AECS aux familles.
 
 </section>
