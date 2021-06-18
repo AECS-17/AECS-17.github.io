@@ -10,9 +10,9 @@ order: 10
 * Lundi 21/06 (17h30-19h) : Atelier musique 🎹.
 * Mardi 22/06 (18h00-19h) : Atelier cuisine - Sorbets 🍨
 * Mercredi 23/06 (18h30-19h30) : Théâtre improvisation 🎭
-* Mercredi 23/06 (19h45-20h45) : [Assemblée générale avec parents et bénévoles]({% post_url 2021-06-16-presentation-assemblee-generale %}). Sur place et en visioconférence. 👫🧑🏿‍🤝‍🧑🏼👭👫🏿
+* Mercredi 23/06 (19h45-20h45) : [Assemblée générale avec parents et bénévoles]({% post_url 2021-06-16-presentation-assemblee-generale %}). Sur place et en visioconférence sur Jitsi Meet. 👫🧑🏿‍🤝‍🧑🏼👭👫🏿
 * Mercredi 23/06 (21h-23h) : Coupe d'Europe Diffusion France-Portugal ⚽.
-* Jeudi 24/06 (17h-19h) : Sortie au parc avec pique-nique 🧺🥖, danses afro-cubaines 💃🏾, sports 🏓, théâtre improvisation 🎭, discussion-rétrospective sur l'année scolaire et l'AECS 👥.
+* Jeudi 24/06 (17h-19h) : Sortie au square des Épinettes avec pique-nique 🧺🥖, danses afro-cubaines 💃🏾, sports 🏓, théâtre improvisation 🎭, discussion-rétrospective sur l'année scolaire et l'AECS 👥.
 * Lundi 28/06 (17h30-19h) : Atelier écriture avec goûter 🖋️. Diffusion du match de l'équipe de France à 21h si elle se qualifie en finissant 1ère de son groupe ⚽.
 * Mardi 29/06 (17h30-19h) : Concours jeux de société 🎲 Diffusion du match de l'équipe de France à 18h si elle se qualifie en finissant 2e de son groupe ⚽.
 * Mercredi 30/06 (17h30-19h) : Théâtre improvisation 🎭.
