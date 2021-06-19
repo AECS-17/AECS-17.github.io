@@ -134,7 +134,7 @@ tags: réunions
 
 ## Activités à venir
 
-* Jeudi 24/06 (17h-19h) : Sortie au parc 🧺🥖 💃🏾 🏓
+* Jeudi 24/06 (17h-20h) : Sortie au parc 🧺🥖 💃🏾 🏓
 * Lundi 28/06 (17h30-19h) : Atelier écriture 🖋
 * Mardi 29/06 (17h30-19h) : Jeux de société 🎲
 * Mercredi 30/06 (17h30-19h) : Théâtre 🎭
