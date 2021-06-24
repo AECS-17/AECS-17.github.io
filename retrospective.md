@@ -7,6 +7,12 @@ order: 20
 
 ## 2021
 
+* Jeudi 24/06 (18h-20h) : Sortie au square des Épinettes avec pique-nique 🧺🥖, danses afro-cubaines 💃🏾, sports 🏓, théâtre improvisation 🎭, discussion-rétrospective sur l'année scolaire et l'AECS 👥.
+* Mercredi 23/06 (21h-23h) : Coupe d'Europe Diffusion France-Portugal ⚽.
+* Mercredi 23/06 (19h45-20h45) : [Assemblée générale avec parents et bénévoles]({% post_url 2021-06-16-presentation-assemblee-generale %}). Sur place et en visioconférence sur Jitsi Meet. 👫🧑🏿‍🤝‍🧑🏼👭👫🏿
+* Mercredi 23/06 (18h30-19h30) : Théâtre improvisation 🎭
+* Mardi 22/06 (18h00-19h) : Atelier cuisine - Sorbets 🍨
+* Lundi 21/06 (17h30-19h) : Atelier musique 🎹.
 * Mardi 11/06 21h-23h. Coupe d'Europe : France-Allemagne.
 * Vendredi 11/06 à 17h et Samedi à 14h. Atelier Peinture "Portraits de Vacances".
 * Vendredi 04/06 (17h30-19h) : [48h de la BD]({% post_url 2021-06-04-bandes-dessinees %}) ; stand lecture et création devant l'AECS, dans la cour de la Villa Saint-Ange. Ouvert à tous les habitants du quartier.
