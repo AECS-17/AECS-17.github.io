@@ -11,7 +11,7 @@ order: 10
 * Lundi 28/06 (21h) : Coupe d'Europe Diffusion France-Suisse ⚽.
 * Mardi 29/06 (17h30-19h) : Concours jeux de société 🎲
 * Mercredi 30/06 (17h30-19h) : Théâtre improvisation 🎭.
-* Vendredi 2/07 (17h30-19h) : e-sport éducatif - [L'Attaque de l'Énigmatique et Carnivore Sphinge](https://github.com/AECS-17/AECS-rpg#lattaque-de-l%C3%A9nigmatique-et-carnivore-sphinge). 🎮
+* ~~Vendredi 2/07 (17h30-19h) : e-sport éducatif~~ - ~~[L'Attaque de l'Énigmatique et Carnivore Sphinge](https://github.com/AECS-17/AECS-rpg#lattaque-de-l%C3%A9nigmatique-et-carnivore-sphinge)~~. 🎮
 
 ## ⌚ Horaire d'ouverture
 
