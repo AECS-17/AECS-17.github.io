@@ -12,6 +12,7 @@ order: 10
 * Mardi 29/06 (17h30-19h) : Concours jeux de société 🎲
 * Mercredi 30/06 (17h30-19h) : Théâtre improvisation 🎭.
 * ~~Vendredi 2/07 (17h30-19h) : e-sport éducatif~~ - ~~[L'Attaque de l'Énigmatique et Carnivore Sphinge](https://github.com/AECS-17/AECS-rpg#lattaque-de-l%C3%A9nigmatique-et-carnivore-sphinge)~~. 🎮
+* Lundi 5/06 (18h-19h30) - Atelier Dessin
 
 ## ⌚ Horaire d'ouverture
 
