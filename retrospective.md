@@ -7,6 +7,11 @@ order: 20
 
 ## 2021
 
+* ~~Vendredi 2/07 (17h30-19h) : e-sport éducatif~~ - ~~[L'Attaque de l'Énigmatique et Carnivore Sphinge](https://github.com/AECS-17/AECS-rpg#lattaque-de-l%C3%A9nigmatique-et-carnivore-sphinge)~~. 🎮
+* Mercredi 30/06 (17h30-19h) : Théâtre improvisation 🎭.
+* Mardi 29/06 (17h30-19h) : Concours jeux de société 🎲
+* Lundi 28/06 (21h) : Coupe d'Europe Diffusion France-Suisse ⚽.
+* Lundi 28/06 (17h30-19h) : Atelier écriture avec goûter 🖋️.
 * Jeudi 24/06 (18h-20h) : [Sortie au square des Épinettes]({% post_url 2021-06-23-sortie-parc-des-epinettes %}) avec pique-nique 🧺🥖, danses afro-cubaines 💃🏾, sports 🏓, théâtre improvisation 🎭, discussion-rétrospective sur l'année scolaire et l'AECS 👥.
 * Mercredi 23/06 (21h-23h) : [Coupe d'Europe Diffusion France-Portugal]({% post_url 2021-06-23-france-portugal %}) ⚽.
 * Mercredi 23/06 (19h45-20h45) : [Assemblée générale avec parents et bénévoles]({% post_url 2021-06-16-presentation-assemblee-generale %}). Sur place et en visioconférence sur Jitsi Meet. 👫🧑🏿‍🤝‍🧑🏼👭👫🏿
