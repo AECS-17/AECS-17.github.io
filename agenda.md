@@ -7,7 +7,7 @@ order: 10
 
 ## 📝 À venir
 
-* Lundi 5/07 (18h-19h30) - Atelier Dessin.
+* Dimanche 11/07 (21h) - Diffusion de la finale de la coupe d'Europe Italie-Angleterre ⚽.
 * Lundi 12/07 (18h30-20h) - Jeu de quilles au passage Saint-Ange (ou au local en cas de mauvais temps).
 * Mercredi 21/07 (18h30-20h) - Pique-nique au Parc Martin Luther King (ou Mikado géant au local en cas de mauvais temps).
 * Mercredi 28/07 (18h30 à 20h) - Cible scratch géante au passage Saint-Ange (ou au local en cas de mauvais temps).
