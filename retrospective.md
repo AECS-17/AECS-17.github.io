@@ -7,6 +7,9 @@ order: 20
 
 ## 2021
 
+* Mercredi 21/07 (18h30-20h) - Pique-nique au Parc Martin Luther King (ou Mikado géant au local en cas de mauvais temps).
+* Lundi 12/07 (18h30-20h) - Jeu de quilles au passage Saint-Ange (ou au local en cas de mauvais temps).
+* Dimanche 11/07 (21h) - Diffusion de la finale de la coupe d'Europe Italie-Angleterre ⚽.
 * Lundi 5/07 (18h-19h30) - Atelier Dessin.
 * ~~Vendredi 2/07 (17h30-19h) : e-sport éducatif~~ - ~~[L'Attaque de l'Énigmatique et Carnivore Sphinge](https://github.com/AECS-17/AECS-rpg#lattaque-de-l%C3%A9nigmatique-et-carnivore-sphinge)~~. 🎮
 * Mercredi 30/06 (17h30-19h) : [Théâtre improvisation]({% post_url 2021-06-30-theatre-improvisation %}) 🎭.
