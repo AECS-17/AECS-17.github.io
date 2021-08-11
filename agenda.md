@@ -7,8 +7,10 @@ order: 10
 
 ## 📝 À venir
 
-* Mercredi 11/08 (18h30-20h) Pique-nique au Jardin Hans et Sophie Scholl "porte Pouchet" (ou Jeu de quilles au local en cas de mauvais temps).
+* ~~Mercredi 11/08~~ Jeudi 12/08 (18h30-20h) Pique-nique au Jardin Hans et Sophie Scholl "porte Pouchet" (ou Jeu de quilles au local en cas de mauvais temps).
 * Mercredi 18/08 (18h30-20h) Mikado géant au passage Saint-Ange (ou au local en cas de mauvais temps).
+* Réunion des bénévoles : mardi 7 septembre à 19h30.
+* Inscription année 2021-2022 : mardi 7 et jeudi 9 septembre de 18h à 19h30.
 
 ## ⌚ Horaire d'ouverture
 
