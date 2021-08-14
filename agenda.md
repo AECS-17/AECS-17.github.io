@@ -7,7 +7,6 @@ order: 10
 
 ## 📝 À venir
 
-* ~~Mercredi 11/08~~ Jeudi 12/08 (18h30-20h) Pique-nique au Jardin Hans et Sophie Scholl "porte Pouchet" (ou Jeu de quilles au local en cas de mauvais temps).
 * Mercredi 18/08 (18h30-20h) Mikado géant au passage Saint-Ange (ou au local en cas de mauvais temps).
 
 ## ⌚ Horaire d'ouverture
