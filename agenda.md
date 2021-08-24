@@ -7,8 +7,7 @@ order: 10
 
 ## 📝 À venir
 
-* Mercredi 18/08 (18h30-20h) Mikado géant au passage Saint-Ange (ou au local en cas de mauvais temps).
-Activité annulée
+Pas d'évènement à venir. Reprise en septembre !
 
 ## ⌚ Horaire d'ouverture
 
