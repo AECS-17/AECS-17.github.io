@@ -15,15 +15,16 @@ tags: réunions
 <section markdown="1">
 ## Ordre du jour
 
-* Été 2021
-* Membres
-* Planning
+* Les activités de l'été 2021
+* Les membres de l'association
+* Préparation de l'année
+* Questions/Discussions
 
 </section>
 
 <section markdown="1">
 
-## Juillet-août 2021
+## Été 2021
 
 * Activités pour les enfants :
   * Sorties au parc 🧺🥖 💃🏾 🏓
@@ -37,16 +38,62 @@ tags: réunions
 
 <section markdown="1">
 
-## 👪 Aide à la parentalité
+## 👪 L'équipe 1/2
 
-* Soutien scolaire ✅
-* Activités ✅
-* Implication des parents dans les activités
-  - e.g. débats ludiques, sorties, ...
-* Rencontre entre bénévoles et parents
-* Aide à l'orientation
-* Médiation familiale
-* ...
+* Nouveau bureau
+  - Denis (président)
+  - Margaux (trésorière)
+  - Frédéric (secrétaire)
+* Volontaires du service civique et stagiaires
+  * Wassim + deux autres services civiques de six mois chacun, pour toute l'année.
+  * Anne-maël a fini son stage en juillet. En proposer pour la deuxième moitié de l'année.
+
+</section>
+
+<section markdown="1">
+
+## 👪 L'équipe 2/2
+
+* Commission "aide à la parentalité"
+  - Agnès?
+  - Frédéric?
+  - Abdeslem?
+  - Wassim?
+
+* Autres bénévoles
+  - Clément (soutien, activités, lien social)
+  - Juliette & Pauline (théâtre) 🎭
+  - ...
+
+</section>
+
+
+<section markdown="1">
+
+## 📝 À faire 1/2
+
+* Soutien/Activités (Wassim, Denis, Frédéric)
+  * Contacter les anciens bénévoles, accueil de nouveaux bénévoles
+  * Proposer un planning des activités
+  * Vérifier nouvelles règlementation COVID
+* Commission aide à la parentalité
+  * Contacter établissements scolaires (Commission relation famille)
+  * Règlement intérieur
+  * Implication des parents (rencontre avec bénévoles, sorties, débats...)
+
+</section>
+
+
+<section markdown="1">
+
+## 📝 À faire 2/2
+
+* Achats
+  - Fournitures de rentrée
+  - Grand tableau pour écrire
+  - Instruments de musique?
+  - Ordinateurs?
+* Rangements & nettoyage bureau
 
 </section>
 
@@ -122,36 +169,29 @@ tags: réunions
 
 <section markdown="1">
 
+## Autres idées d'activités
+
+* Danse latino-américaine (salsa, merengue etc) : Maritza.
+* Langue espagnole : Maritza.
+* Atelier non-violence : Maritza et Denis.
+* Nouvelles activités (sortie, etc) possibles?
+* ...
+
+</section>
+
+<section markdown="1">
+
 ## Projets de lien social
 
-<img alt="Saint Ange" width="400px" src="{{ site.baseurl }}/images/presentations/saint-ange.jpg"/>
-<img alt="Garde manger solidaire" width="400px" src="{{ site.baseurl }}/images/presentations/garde-manger.jpg"/>
+* [Garde manger solidaire](https://www.aecs-asso.org/2021/05/06/garde-manger-solidaire.html) (Clément, Denis) 🚧
+* [Rénovation passage Saint-Ange avec le collectif Saint-Ange](https://www.aecs-asso.org/2021/04/05/budget-participatif-saint-ange.html) (rejeté par la Mairie)  ❌
+* [Cagnotte le Défi](https://www.aecs-asso.org/2021/08/24/cagnotte-ecole-demunis-benin.html) (école Bénin)
 
 </section>
 
 <section markdown="1">
 
-## Activités à venir
-
-* Jeudi 24/06 (17h-20h) : Sortie au parc 🧺🥖 💃🏾 🏓
-* Lundi 28/06 (17h30-19h) : Atelier écriture 🖋
-* Mardi 29/06 (17h30-19h) : Jeux de société 🎲
-* Mercredi 30/06 (17h30-19h) : Théâtre 🎭
-* Vendredi 2/07 (17h30-19h) : e-sport éducatif 🎮
-* Diffusion matches de la coupe d'europe ⚽
+## Questions/Discussions
 
 </section>
 
-<section markdown="1">
-
-## Activités Juillet-Août
-
-* Objectif : 1 activité par semaine.
-  - Disponibilité des bénévoles ?
-  - Présence des familles ?
-* Quelques idées
-  - Continuer les activités existantes ?
-  - Nouvelles activités avec le beau temps et le déconfinement ?
-  - Activités de quartier pour faire connaitre l'AECS aux familles.
-
-</section>
