@@ -77,7 +77,7 @@ tags: réunions
   * Proposer un planning des activités
   * Vérifier nouvelles règlementation COVID
 * Commission aide à la parentalité
-  * Contacter établissements scolaires (Commission relation famille)
+  * Contacter établissements scolaires
   * Règlement intérieur
   * Implication des parents (rencontre avec bénévoles, sorties, débats...)
 
