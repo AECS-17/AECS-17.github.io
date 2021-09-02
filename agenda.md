@@ -8,8 +8,9 @@ order: 10
 ## 📝 À venir
 
 * Lundi 6, Mardi 7 et Mercredi 8 de 18h30 à 20h : Inscription pour l'année scolaire 2021-2022.
-* Jeudi 9 : Réunion des bénévoles de pré-rentrée.
-* Lundi 13 : Réouverture de l'AECS, accueil des nouveaux bénévoles.
+* Jeudi 9 de 19h à 20h : Réunion des bénévoles de pré-rentrée.
+* Du lundi 13 au jeudi 16, de 18h30 à 20h : Accueil des bénévoles.
+* Lundi 13 : Réouverture de l'AECS, avec les horaires habituels (voir ci-dessous). Planning détaillé à venir.
 
 ## ⌚ Horaire d'ouverture
 
