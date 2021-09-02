@@ -7,7 +7,9 @@ order: 10
 
 ## 📝 À venir
 
-Pas d'évènement à venir. Reprise en septembre !
+* Lundi 6, Mardi 7 et Mercredi 8 de 18h30 à 20h : Inscription pour l'année scolaire 2021-2022.
+* Jeudi 9 : Réunion des bénévoles de pré-rentrée.
+* Lundi 13 : Réouverture de l'AECS, accueil des nouveaux bénévoles.
 
 ## ⌚ Horaire d'ouverture
 
