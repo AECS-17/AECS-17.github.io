@@ -89,11 +89,13 @@ tags: réunions
 ## 📝 À faire 2/2
 
 * Achats
-  - Fournitures de rentrée
+  - Fournitures
   - Grand tableau pour écrire
   - Instruments de musique?
   - Ordinateurs?
-* Rangements & nettoyage bureau
+  - Imprimante?
+  - Porte-manteau?
+* Rangement & nettoyage
 
 </section>
 
