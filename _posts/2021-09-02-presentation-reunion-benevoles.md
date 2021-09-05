@@ -90,12 +90,12 @@ tags: réunions
 
 * Achats
   - Fournitures
-  - Grand tableau pour écrire
+  - Tableau pour écrire, écran rétro
+  - Porte-manteau
+  - Imprimante?
   - Instruments de musique?
   - Ordinateurs?
-  - Imprimante?
-  - Porte-manteau?
-* Rangement & nettoyage
+* Rangement, nettoyage, déchèterie
 
 </section>
 
