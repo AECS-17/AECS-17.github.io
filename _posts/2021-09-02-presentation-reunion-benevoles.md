@@ -77,7 +77,7 @@ tags: réunions
   * Proposer un planning des activités
   * Vérifier nouvelles règlementation COVID
 * Commission aide à la parentalité
-  * Contacter établissements scolaires
+  * Contacter établissements scolaires (collège Mallarmé ou école Kellner)
   * Règlement intérieur
   * Implication des parents (rencontre avec bénévoles, sorties, débats...)
 
