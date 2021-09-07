@@ -1,7 +1,7 @@
 ---
 layout: presentation
 title:  "Réunion bénévoles"
-subtitle: AECS, 2 septembre 2021
+subtitle: AECS, 9 septembre 2021
 summary: "Présentation pour la réunion bénévole de pré-rentrée"
 date:   2021-09-02 12:00:00 UTC+2
 tile-image: reunion-002.jpg
