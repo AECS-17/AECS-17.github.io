@@ -70,12 +70,22 @@ tags: réunions
 
 <section markdown="1">
 
-## 📝 À faire 1/2
+## 📝 À faire 1/3
 
 * Soutien/Activités (Wassim, Denis, Frédéric)
   * Contacter les anciens bénévoles, accueil de nouveaux bénévoles
   * Proposer un planning des activités
   * Vérifier nouvelles règlementation COVID
+  * Préparer participation à la organisée par le bailleur mercredi 15 (15h30-18h30)
+    - Wassim + Denis + 1 bénévole
+    - Animations dans la cour
+    - Échange/Communication sur l'association
+</section>
+
+<section markdown="1">
+
+## 📝 À faire 2/3
+
 * Commission aide à la parentalité
   * Contacter établissements scolaires (collège Mallarmé ou école Kellner)
   * Règlement intérieur
@@ -83,10 +93,9 @@ tags: réunions
 
 </section>
 
-
 <section markdown="1">
 
-## 📝 À faire 2/2
+## 📝 À faire 3/3
 
 * Achats
   - Fournitures
