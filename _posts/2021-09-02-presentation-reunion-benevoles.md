@@ -76,7 +76,7 @@ tags: réunions
   * Contacter les anciens bénévoles, accueil de nouveaux bénévoles
   * Proposer un planning des activités
   * Vérifier nouvelles règlementation COVID
-  * Préparer participation à la organisée par le bailleur mercredi 15 (15h30-18h30)
+  * Préparer participation à la fête organisée par le bailleur mercredi 15 (15h30-18h30)
     - Wassim + Denis + 1 bénévole
     - Animations dans la cour
     - Échange/Communication sur l'association
