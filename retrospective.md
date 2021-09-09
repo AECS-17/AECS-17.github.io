@@ -7,6 +7,8 @@ order: 20
 
 ## 2021
 
+* Jeudi 9 de 19h à 20h : Réunion des bénévoles de pré-rentrée.
+* Lundi 6, Mardi 7 et Mercredi 8 de 18h30 à 20h : Inscription pour l'année scolaire 2021-2022.
 * ~~Mercredi 18/08 (18h30-20h) Mikado géant au passage Saint-Ange (ou au local en cas de mauvais temps)~~.
 * ~~Mercredi 11/08~~ Jeudi 12/08 (18h30-20h) Pique-nique au Jardin Hans et Sophie Scholl "porte Pouchet" (ou Jeu de quilles au local en cas de mauvais temps).
 * Mercredi 28/07 (18h30 à 20h) - Cible scratch géante au passage Saint-Ange (ou au local en cas de mauvais temps).

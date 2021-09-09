@@ -7,10 +7,12 @@ order: 10
 
 ## 📝 À venir
 
-* Lundi 6, Mardi 7 et Mercredi 8 de 18h30 à 20h : Inscription pour l'année scolaire 2021-2022.
-* Jeudi 9 de 19h à 20h : Réunion des bénévoles de pré-rentrée.
 * Du lundi 13 au jeudi 16, de 18h30 à 20h : Accueil des nouveaux bénévoles.
-* Lundi 13 : Réouverture de l'AECS, avec les horaires habituels (voir ci-dessous). Planning détaillé à venir.
+* Lundi 13 : Soutien Scolaire de 17h30 à 19h30.
+* Mardi 14 : Soutien Scolaire de 17h30 à 19h30.
+* Mercredi 15 : Fête de la Villa Saint-Ange de 16h à 18h.
+* Jeudi 16 : Soutien Scolaire de 17h30 à 19h30.
+* Vendredi 17, Samedi 18 : Fermé.
 
 ## ⌚ Horaire d'ouverture
 
