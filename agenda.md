@@ -5,18 +5,26 @@ menu_icon: 📅
 order: 10
 ---
 
+## 😷 Information COVID
+
+En application des mesures gouvernementales, il est rappelé l'obligation pour tous de respecter les règles suivantes :
+* Pass sanitaire. Seulement lors des « activités culturelles, sportives, ludiques ou festives » et pour les personnes majeures. À compter du 30 septembre 2021, il sera demandé pour les mineurs âgés de 12 à 17 ans.
+* Port du masque.
+* Lavage des mains.
+* Distanciation d'un mètre minimum.
+
 ## 📝 À venir
 
 * Du lundi 13 au jeudi 16, de 18h30 à 20h : Accueil des nouveaux bénévoles.
 * Lundi 13 : Soutien Scolaire de 17h30 à 19h30.
 * Mardi 14 : Soutien Scolaire de 17h30 à 19h30.
-* Mercredi 15 : Fête de la Villa Saint-Ange de 16h à 18h.
+* Mercredi 15 : Fête de la Villa Saint-Ange de 16h à 18h. Pass sanitaire obligatoire pour les plus de 18 ans.
 * Jeudi 16 : Soutien Scolaire de 17h30 à 19h30.
 * Vendredi 17, Samedi 18 : Fermé.
 
 ## ⌚ Horaire d'ouverture
 
-* Lundi à Vendredi de 17h30 à 20h00
+* Lundi à Vendredi de 17h30 à 19h30
 * Samedi matin de 10h30 à 12h30
 * Samedi après-midi de 14h00 à 15h30
 * ⚠️ 👉 *Notre association fonctionne actuellement uniquement grâce à l'aide de bénévoles, les horaires sont susceptibles de changer et les places limitées. Merci de [prendre contact avec nous](#footer) pour obtenir davantage de détails sur le programme à venir et les modalités d'inscription.*
