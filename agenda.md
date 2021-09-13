@@ -21,6 +21,10 @@ En application des mesures gouvernementales, il est rappelé l'obligation pour t
 * Mercredi 15 : Fête de la Villa Saint-Ange de 16h à 18h. Pass sanitaire obligatoire pour les plus de 18 ans.
 * Jeudi 16 : Soutien Scolaire de 17h30 à 19h30.
 * Vendredi 17, Samedi 18 : Fermé.
+* Mercredi 22 septembre (17h30-19h30) : Pique-nique et activités extérieures au parc Clichy Batignolles - Martin Luther King ou ping-pong au local en cas de mauvais temps.
+* Vendredi 24 septembre (17h30-19h) : Atelier langue des signes.
+* Samedi 25 septembre (15h-16h30) : Musique.
+* Mercredi 29 septembre (17h30-19h) : Atelier magie.
 
 ## ⌚ Horaire d'ouverture
 
