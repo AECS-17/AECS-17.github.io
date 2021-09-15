@@ -7,6 +7,7 @@ order: 20
 
 ## 2021
 
+* Du lundi 13 au jeudi 16, de 18h30 à 20h : Accueil des nouveaux bénévoles.
 * Jeudi 9 de 19h à 20h : Réunion des bénévoles de pré-rentrée.
 * Lundi 6, Mardi 7 et Mercredi 8 de 18h30 à 20h : Inscription pour l'année scolaire 2021-2022.
 * ~~Mercredi 18/08 (18h30-20h) Mikado géant au passage Saint-Ange (ou au local en cas de mauvais temps)~~.

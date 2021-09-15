@@ -15,9 +15,6 @@ En application des mesures gouvernementales, il est rappelé l'obligation pour t
 
 ## 📝 À venir
 
-* Du lundi 13 au jeudi 16, de 18h30 à 20h : Accueil des nouveaux bénévoles.
-* Lundi 13 : Soutien Scolaire de 17h30 à 19h30.
-* Mardi 14 : Soutien Scolaire de 17h30 à 19h30.
 * Mercredi 15 : Fête de la Villa Saint-Ange de 16h à 18h. Pass sanitaire obligatoire pour les plus de 18 ans.
 * Jeudi 16 : Soutien Scolaire de 17h30 à 19h30.
 * Vendredi 17, Samedi 18 : Fermé.
