@@ -20,7 +20,7 @@ En application des mesures gouvernementales, il est rappelé l'obligation pour t
 * Vendredi 17, Samedi 18 : Fermé.
 * Mercredi 22 septembre (17h30-19h30) : Pique-nique et activités extérieures au parc Clichy Batignolles - Martin Luther King ou ping-pong au local en cas de mauvais temps.
 * Vendredi 24 septembre (17h30-19h) : Atelier langue des signes.
-* Samedi 25 septembre (15h-16h30) : Musique.
+* Samedi 25 septembre (15h-16h30) : Musique / Blind Test.
 * Mercredi 29 septembre (17h30-19h) : Atelier magie.
 
 ## ⌚ Horaire d'ouverture
