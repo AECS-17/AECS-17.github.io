@@ -7,6 +7,8 @@ order: 20
 
 ## 2021
 
+* Vendredi 24 septembre (17h30-19h) : Atelier langue des signes.
+* Mercredi 22 septembre (17h30-19h30) : Pique-nique et activités extérieures au parc Clichy Batignolles - Martin Luther King ~~ou ping-pong au local en cas de mauvais temps~~.
 * Mercredi 15 : Fête de la Villa Saint-Ange de 16h à 18h. Pass sanitaire obligatoire pour les plus de 18 ans.
 * Du lundi 13 au jeudi 16, de 18h30 à 20h : Accueil des nouveaux bénévoles.
 * Jeudi 9 de 19h à 20h : Réunion des bénévoles de pré-rentrée.
