@@ -15,8 +15,7 @@ En application des mesures gouvernementales, il est rappelé l'obligation pour t
 
 ## 📝 À venir
 
-* Samedi 25 septembre (10h30 à 12h30) : Fermé.
-* Samedi 25 septembre (14h-15h30) : ~~Musique / Blind Test~~ Fermé.
+* Mardi 28 septembre, le soutien scolaire commencera exceptionnellement à 18h.
 * Mercredi 29 septembre (17h30-19h) : Atelier magie.
 * Vendredi 1er octobre (17h30-19h) : Défi AECS.
 * Samedi 2 octobre (14h-15h30) : Échecs.

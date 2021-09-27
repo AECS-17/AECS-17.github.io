@@ -7,6 +7,8 @@ order: 20
 
 ## 2021
 
+* Samedi 25 septembre (14h-15h30) : ~~Musique / Blind Test~~ Fermé.
+* Samedi 25 septembre (10h30 à 12h30) : Fermé.
 * Vendredi 24 septembre (17h30-19h) : Atelier langue des signes.
 * Mercredi 22 septembre (17h30-19h30) : Pique-nique et activités extérieures au parc Clichy Batignolles - Martin Luther King ~~ou ping-pong au local en cas de mauvais temps~~.
 * Mercredi 15 : Fête de la Villa Saint-Ange de 16h à 18h. Pass sanitaire obligatoire pour les plus de 18 ans.
