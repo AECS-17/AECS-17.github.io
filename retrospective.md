@@ -7,6 +7,7 @@ order: 20
 
 ## 2021
 
+* Samedi 2 octobre (14h-15h30) : Échecs.
 * Vendredi 1er octobre (17h30-19h) : Défi AECS.
 * Mercredi 29 septembre (17h30-19h) : Atelier magie.
 * Samedi 25 septembre (14h-15h30) : ~~Musique / Blind Test~~ Fermé.
