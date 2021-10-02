@@ -15,13 +15,10 @@ En application des mesures gouvernementales, il est rappelé l'obligation pour t
 
 ## 📝 À venir
 
-* Mardi 28 septembre, le soutien scolaire commencera exceptionnellement à 18h.
-* Mercredi 29 septembre (17h30-19h) : Atelier magie.
-* Vendredi 1er octobre (17h30-19h) : Défi AECS.
 * Samedi 2 octobre (14h-15h30) : Échecs.
 * Mercredi 6 octobre (18h30-20h) : Atelier non-violence.
 * Vendredi 8 octobre (17h30-19h) : Atelier langue des signes.
-* Samedi 9 octobre (15h - 16h30) : ~~Musique~~ Sortie fête de la science.
+* Samedi 9 octobre (14h30-16h30) : ~~Musique~~ Sortie fête de la science.
 * Mercredi 13 octobre (17h30-19h) : Cuisine.
 * Vendredi 15 octobre (17h30-19h) : Activité maths/informatique.
 * Samedi 16 octobre (14h-15h30) : Danse latino.

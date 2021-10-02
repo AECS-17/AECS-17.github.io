@@ -7,6 +7,8 @@ order: 20
 
 ## 2021
 
+* Vendredi 1er octobre (17h30-19h) : Défi AECS.
+* Mercredi 29 septembre (17h30-19h) : Atelier magie.
 * Samedi 25 septembre (14h-15h30) : ~~Musique / Blind Test~~ Fermé.
 * Samedi 25 septembre (10h30 à 12h30) : Fermé.
 * Vendredi 24 septembre (17h30-19h) : Atelier langue des signes.
