@@ -11,24 +11,27 @@ tile-image: math-001.jpg
 
 ## Objectifs
 
-* S'amuser à résoudre de mini-jeux.
-* S'initier de façon ludique à la complexité algorithmique.
+* S'amuser à résoudre de mini-jeux. 🎲 ♣️
+* S'initier de façon ludique à la complexité algorithmique. 💻⌚
 
 </section>
 
 <section markdown="1">
 
-## Le bon tri
+## La course au tri
 
-* On chronomètre qui est le plus rapide à trier un jeu de 32 cartes (préalablement mélangé), sans tenir compte des couleurs. Quelques stratégies :
+* On mélange un jeu de 32 cartes ♣️❤️♠️♦️.
+* On chronomètre ⌚ le temps nécessaire pour les ranger dans l'ordre croissant (7, 8, 9, 10, Valet, Dame, Roi, As) sans tenir compte des couleurs.
+* Le vainqueur est la personne la plus rapide 🏆.
+* On recommence en faisant des équipes de deux ou quatre qui peuvent se coordonner pour trier les cartes plus rapidement 🧑🏾👩🏼👨🏻👩🏿.
+
+<aside class="notes" markdown="1">
+* Mesurer le temps avec (en pratique, une minute chacun ?):
   - Cartes initialement dans une main, on les passe une par une dans l'autre en les insérant au bon endroit.
   - Cartes dans les deux mains, on les parcourt et jette une par une la plus petite sur la table.
   - On les dispose toutes face visible sur la table, on fusionne progressivement en groupe de 2, 4, 8, 16, 32 cartes en triant à chaque fois.
-
-<aside class="notes" markdown="1">
-- Quelle est meilleure stratégie en pratique ? Mesure : chacune prend environ 1 minute.
-- Le but de l'analyse de la complexité algorithmique est d'expliquer ce qui se passe asymptotiquement (e.g un jeu d'un milliard de cartes). Les deux premiers algorithmes de tris ont une complexité quadratique tandis que le tri fusion a une complexité linéarithmique.
-- L'algorithme de tri fusion est de type diviser pour règner : on peut trier en parallèle pour aller plus vite.
+* Le but de l'analyse de la complexité algorithmique est d'expliquer ce qui se passe asymptotiquement (e.g un jeu d'un milliard de cartes). Les deux premiers algorithmes de tris ont une complexité quadratique tandis que le tri fusion a une complexité linéarithmique.
+* L'algorithme de tri fusion est de type diviser pour règner : on peut trier en parallèle pour aller plus vite.
 </aside>
 
 </section>
@@ -37,10 +40,11 @@ tile-image: math-001.jpg
 
 ## L'âge du capitaine
 
-* Le capitaine choisit dans sa tête un âge entre 1 et 128 ans.
-* Les autres font chacun leur tour des propositions.
-* Le capitaine confirme si la réponse est correcte ou indique s'il est "plus vieux" ou "plus jeune".
-* Nombre d'essais maximum : 128.
+* Deux équipages s'affrontent, ils possèdent chacun un capitaine fictif 👮🏿.
+* Chaque équipage décide l'âge secret du capitaine (entre 1 et 128 ans) et le note sur un papier ✍🏼.
+* A tour de rôle, les équipages essayent de deviner l'âge du capitaine adverse ❓.
+* Le capitaine indique si la réponse est correcte ✅ ou s'il est plus vieux 👴 ou plus jeune 🧒.
+* Les vainqueurs sont ceux qui trouve l'âge en premier 🏆.
 
 <aside class="notes" markdown="1">
 * Algorithme 1 : Essayer les 128 possibilités. Complexité linaire : 128 essais maximum.
@@ -51,16 +55,16 @@ tile-image: math-001.jpg
 
 <section markdown="1">
 
-## Multiplication rapide
+## Uno Solitaire 
 
-* On choisit un nombre de 3 chiffres (e.g. 452) et un nombre de deux 2 chiffres (e.g. 37). Poser la multiplication (e.g. 452 × 37).
-* Les enfants de l'AECS ne connaissant que leurs tables d'addition prétendent qu'il est plus facile de poser les additions successives (e.g. 452 + 452 = 904, puis 904 + 452 = 1356, etc).
-* Comparer le nombre d'opérations élémentaires (additions et multiplications) nécessaires dans les deux cas. Peut-on améliorer la 2e technique ?
+* On tire 4 cartes numériques d'un jeu de Uno pour obtenir 2 nombres de 2 chiffres, disposés comme pour poser une multiplication 🧮.
+* On effectue la multiplication en mettant de coté les paires de cartes correspondant aux multiplications de deux chiffres effectuées ♠️♥️.
+* Vérifier le nombre de paires obtenues et l'exactitude du résultat ✅.
+* Variante : n'autoriser qu'additions (paires de cartes), décrémentations (carte ↔️) et moitiés (carte +2).
 
 <aside class="notes" markdown="1">
-* Pour 452 × 37 on trouve 15 opérations.
-* Pour la deuxième méthode, on dépasse ce nombre arrivé à 452 + 452 + 452 + 452 + 452 (et il reste encore 32 termes à ajouter).
-* Oui, en groupant les termes, de façon similaire à l'exponentiation rapide.
+* Montrer le jeu et le compte du nombre d'opération.
+* Pour la variante, utiliser un algorithme similaire à l'exponentiation rapide.
 </aside>
 
 </section>
@@ -69,12 +73,13 @@ tile-image: math-001.jpg
 
 ## L'oreille musicale
 
-* Une personne joue trois notes simultanément au piano (on utilisera un enregistrement préalable).
-* Les autres peuvent lui demander de ré-écouter autant de fois que nécessaire.
-* Les autres tâtonnent au piano afin de reproduire les trois notes jouées.
-* Nombre de possibilités pour un piano de 88 touches : 88 × 87 × 86 = 658416 possibilités.
+* Deux joueurs : le musicien et l'auditeur.
+* Le musicien joue trois notes simultanément au piano 🎹 ou un autre instrument harmonique.
+* L'auditeur peut demander à ré-écouter autant de fois que nécessaire 🎶 et a le droit de chanter ou jouer sur l'instrument.
+* Le but est de rechercher et reproduire les trois notes jouées 🤔 en essayant de toucher l'instrument le moins possible.
 
 <aside class="notes" markdown="1">
+* Nombre de possibilités pour un piano de 88 touches : 88 × 87 × 86 = 658416 possibilités.
 * Algorithme 1 : jouer tous les accords possibles. Complexité cubique : 88³ ; 7-8 jours maximum en jouant un accord par seconde.
 * Algorithme 2 : chanter chacune des trois notes ; jouer à chaque fois les 88 notes chromatiquement pour trouver la note. Complexité linaire : 3×88 ; 3 minute 24 maximum en jouant une note par seconde.
 * Algorithme 3 : idem mais faire à chaque fois une recherche dichotomique (plus aigu / plus grave). Complexité logarithmique : 3×log<sub>2</sub>(88) ; 20 secondes maximum en jouant une note par seconde.
@@ -88,10 +93,10 @@ tile-image: math-001.jpg
 ## Les tours de Hanoï
 
 * On dispose de trois emplacements : départ, intermédiaire, arrivée.
-* L'emplacement de départ comporte des livres empilés du plus grand au plus petit.
-* Le but est déplacer cette pile dans l'emplacement d'arrivée en un un minimum de coups, tout en respectant les règles suivantes :
-   - On ne peut déplacer plus d'un livre à la fois ;
-   - On ne peut placer un livre que sur un autre livre plus grand que lui ou sur un emplacement vide.
+* L'emplacement de départ comporte des livres empilés du plus grand au plus petit 📚. 
+* Le but est de déplacer cette pile sur l'arrivée 🏁 en respectant les règles suivantes :
+   - Ne pas déplacer plus d'un livre à la fois ;
+   - Ne placer un livre que sur un autre livre plus grand ou sur un emplacement vide.
 
 <aside class="notes" markdown="1">
 * Expliquer la solution, le nombre minimal de déplacement est 2 puissance le nombre de livres moins 1.
