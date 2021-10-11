@@ -79,7 +79,7 @@ tile-image: math-001.jpg
 * Le but est de rechercher et reproduire les trois notes jouées 🤔 en essayant de toucher l'instrument le moins possible.
 
 <aside class="notes" markdown="1">
-* Nombre de possibilités pour un piano de 88 touches : 88 × 87 × 86 = 658416 possibilités.
+* Nombre de possibilités pour un piano de 88 touches : 88 × 87 × 86 / 3! = 109736 possibilités.
 * Algorithme 1 : jouer tous les accords possibles. Complexité cubique : 88³ ; 7-8 jours maximum en jouant un accord par seconde.
 * Algorithme 2 : chanter chacune des trois notes ; jouer à chaque fois les 88 notes chromatiquement pour trouver la note. Complexité linaire : 3×88 ; 3 minute 24 maximum en jouant une note par seconde.
 * Algorithme 3 : idem mais faire à chaque fois une recherche dichotomique (plus aigu / plus grave). Complexité logarithmique : 3×log<sub>2</sub>(88) ; 20 secondes maximum en jouant une note par seconde.
