@@ -7,6 +7,9 @@ order: 20
 
 ## 2021
 
+* Samedi 9 octobre (14h00-16h30) : ~~Musique~~ Sortie fête de la science.
+* Vendredi 8 octobre (17h30-19h) : Atelier langue des signes.
+* Mercredi 6 octobre (18h30-20h) : Atelier non-violence.
 * Samedi 2 octobre (14h-15h30) : Échecs.
 * Vendredi 1er octobre (17h30-19h) : Défi AECS.
 * Mercredi 29 septembre (17h30-19h) : Atelier magie.

@@ -15,11 +15,8 @@ En application des mesures gouvernementales, il est rappelé l'obligation pour t
 
 ## 📝 À venir
 
-* Mercredi 6 octobre (18h30-20h) : Atelier non-violence.
-* Vendredi 8 octobre (17h30-19h) : Atelier langue des signes.
-* Samedi 9 octobre (14h00-16h30) : ~~Musique~~ Sortie fête de la science.
 * Mercredi 13 octobre (17h30-19h) : Cuisine.
-* Vendredi 15 octobre (17h30-19h) : Activité maths/informatique.
+* Vendredi 15 octobre (17h30-19h) : Activité maths, informatique & jeux : [initiation à la complexité algorithmique]({% post_url 2021-10-09-presentation-atelier-maths-informatique-complexite-algorithmique %}). 🎲💻
 * Samedi 16 octobre (14h-15h30) : Danse latino.
 * Mercredi 20 octobre (17h30-19h) : Sculpture ballons de baudruche.
 * Vendredi 22 octobre (17h30-19h): Activités Fake News.

@@ -1,8 +1,8 @@
 ---
 layout: presentation
-title:  Atelier maths/info
+title:  Atelier maths/informatique
 subtitle: Introduction à la complexité algorithmique
-summary: "Présentation de l'atelier math/informatique du 9 octobre."
+summary: "Présentation de l'atelier du 9 octobre."
 categories: presentations
 tile-image: math-001.jpg
 ---
