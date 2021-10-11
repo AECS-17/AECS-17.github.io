@@ -8,7 +8,7 @@ order: 10
 ## 😷 Information COVID
 
 En application des mesures gouvernementales, il est rappelé l'obligation pour tous de respecter les règles suivantes :
-* Pass sanitaire. Seulement lors des « activités culturelles, sportives, ludiques ou festives » et pour les personnes majeures. À compter du 30 septembre 2021, il sera demandé pour les mineurs âgés de 12 à 17 ans.
+* Pass sanitaire à partir de 12 ans. Seulement lors des « activités culturelles, sportives, ludiques ou festives ».
 * Port du masque.
 * Lavage des mains.
 * Distanciation d'un mètre minimum.
