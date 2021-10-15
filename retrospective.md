@@ -7,6 +7,8 @@ order: 20
 
 ## 2021
 
+* jeudi 14 octobre (19h15-20h) : Rencontre autour du projet de Garde-manger solidaire.
+* Mercredi 13 octobre (17h30-19h) : ~~Cuisine~~ Dégustation.
 * Samedi 9 octobre (14h00-16h30) : ~~Musique~~ Sortie fête de la science.
 * Vendredi 8 octobre (17h30-19h) : Atelier langue des signes.
 * Mercredi 6 octobre (18h30-20h) : Atelier non-violence.
