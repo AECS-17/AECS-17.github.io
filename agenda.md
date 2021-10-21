@@ -15,9 +15,6 @@ En application des mesures gouvernementales, il est rappelé l'obligation pour t
 
 ## 📝 À venir
 
-* Vendredi 15 octobre (17h30-19h) : ~~Activité maths, informatique & jeux : [initiation à la complexité algorithmique]({% post_url 2021-10-09-presentation-atelier-maths-informatique-complexite-algorithmique %})~~ Annulé (aucun inscrit). 🎲💻
-* Samedi 16 octobre (14h-15h30) : Danse latino.
-* Mercredi 20 octobre (17h30-19h) : Sculpture ballons de baudruche.
 * Vendredi 22 octobre (17h30-19h): Activités Fake News.
 * Mardi 26 octobre (19h15-20h) : Rencontre autour du projet de Garde-manger solidaire.
 

@@ -7,6 +7,10 @@ order: 20
 
 ## 2021
 
+
+* Mercredi 20 octobre (17h30-19h) : Sculpture ballons de baudruche.
+* Samedi 16 octobre (14h-15h30) : Danse latino.
+* Vendredi 15 octobre (17h30-19h) : ~~Activité maths, informatique & jeux : [initiation à la complexité algorithmique]({% post_url 2021-10-09-presentation-atelier-maths-informatique-complexite-algorithmique %})~~ Annulé (aucun inscrit). 🎲💻
 * jeudi 14 octobre (19h15-20h) : Rencontre autour du projet de Garde-manger solidaire.
 * Mercredi 13 octobre (17h30-19h) : ~~Cuisine~~ Dégustation.
 * Samedi 9 octobre (14h00-16h30) : ~~Musique~~ Sortie fête de la science.
