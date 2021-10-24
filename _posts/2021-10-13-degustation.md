@@ -9,6 +9,8 @@ tags: cuisine activités
 
 <img style="width: 100%; max-width: 600px;" src="{{ site.baseurl }}/images/posts/2021-10-13-01.jpg" alt="Photo Atelier"/>
 <img style="width: 100%; max-width: 600px;" src="{{ site.baseurl }}/images/posts/2021-10-13-02.jpg" alt="Photo Atelier"/>
+
+Aujourd'hui notre nouvelle bénévole Marceline a fait découvrir un peu de cuisine africaine !
+
 <img style="width: 100%; max-width: 600px;" src="{{ site.baseurl }}/images/posts/2021-10-13-03.jpg" alt="Photo Atelier"/>
 <img style="width: 100%; max-width: 600px;" src="{{ site.baseurl }}/images/posts/2021-10-13-04.jpg" alt="Photo Atelier"/>
-
