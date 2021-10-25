@@ -8,6 +8,7 @@ order: 20
 ## 2021
 
 
+* Vendredi 22 octobre (17h30-19h): Activités Fake News.
 * Mercredi 20 octobre (17h30-19h) : Sculpture ballons de baudruche.
 * Samedi 16 octobre (14h-15h30) : Danse latino.
 * Vendredi 15 octobre (17h30-19h) : ~~Activité maths, informatique & jeux : [initiation à la complexité algorithmique]({% post_url 2021-10-09-presentation-atelier-maths-informatique-complexite-algorithmique %})~~ Annulé (aucun inscrit). 🎲💻

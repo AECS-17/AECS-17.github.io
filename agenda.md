@@ -15,7 +15,6 @@ En application des mesures gouvernementales, il est rappelé l'obligation pour t
 
 ## 📝 À venir
 
-* Vendredi 22 octobre (17h30-19h): Activités Fake News.
 * Mardi 26 octobre (19h15-20h) : Rencontre autour du projet de Garde-manger solidaire.
 
 ## ⌚ Horaire d'ouverture
