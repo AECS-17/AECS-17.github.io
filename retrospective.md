@@ -7,7 +7,7 @@ order: 20
 
 ## 2021
 
-
+* Mardi 26 octobre (19h15-20h) : Rencontre autour du projet de Garde-manger solidaire.
 * Vendredi 22 octobre (17h30-19h): Activités Fake News.
 * Mercredi 20 octobre (17h30-19h) : Sculpture ballons de baudruche.
 * Samedi 16 octobre (14h-15h30) : Danse latino.
